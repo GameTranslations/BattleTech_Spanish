@@ -1,0 +1,41 @@
+{
+	"Description" : {
+		"Id" : "TraitDefCalledShotImprove",
+		"Name" : "Tiro Apuntado Mejorado",
+		"Details" : "PASIVO: Tiros Apuntados hechos por este MechWarrior tienen doble probabilidad de acertar al blanco.",
+		"Icon" : "uixSvgIcon_ability_mastertactician"
+	},
+	"Type" : "CalledShotBonus",
+	"ShortDesc" : "Bono al Tiro Apuntado",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefCalledShotImprove",
+				"Name" : "Tiro Apuntado Mejorado",
+				"Details" : "Tiros Apuntados el doble de fiables",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+				"statName" : "CalledShotBonusMultiplier",
+				"operation" : "Float_Multiply",
+				"modValue" : "2.4",
+				"modType" : "System.Single"
+			}
+		}
+	]
+}

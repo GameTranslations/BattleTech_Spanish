@@ -1,0 +1,41 @@
+{
+	"Description" : {
+		"Id" : "TraitDefIndirectReduceThree",
+		"Name" : "Fuego Indirecto Mejorado",
+		"Details" : "PASIVO: Los 'Mechs pilotados por este MechWarrior tienen sus penalizaciones a fuego indirecto reducidas por 3.",
+		"Icon" : "uixSvgIcon_ability_mastertactician"
+	},
+	"Type" : "IndirectBonus",
+	"ShortDesc" : "-3 Penalización a Fuego Indirecto",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefIndirectReduceOne",
+				"Name" : "Fuego Indirecto Mejorado",
+				"Details" : "Penalizaciones a fuego indirecto reducidas por 3",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+				"statName" : "ToHitIndirectModifier",
+				"operation" : "Float_Add",
+				"modValue" : "-1.0",
+				"modType" : "System.Single"
+			}
+		}
+	]
+}

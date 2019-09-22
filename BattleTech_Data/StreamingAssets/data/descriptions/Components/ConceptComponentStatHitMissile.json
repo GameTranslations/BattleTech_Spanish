@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHitMissile",
+    "Name" : "Missile Targeting",
+    "Details" : "El Apuntado de Misil afecta a la precisión promedio de toda arma de Misiles equipada, según la dificultad de su ataque actual.",
+    "Icon" : ""
+}

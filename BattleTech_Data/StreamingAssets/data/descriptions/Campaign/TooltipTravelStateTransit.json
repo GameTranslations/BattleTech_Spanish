@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipTravelStateTransit",
+    "Name" : "En Tránsito",
+    "Details" : "Viajar entre planetas y puntos de salto puede durar varios días, a una confortable aceleración de 1 a 1,5g.",
+    "Icon" : ""
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ContractTypeCaptureBase",
+    "Name" : "Capturar Base",
+    "Details" : "Tu objetivo es entrar en una instalación, eliminar toda presencia enemiga, y ocupar la instalación un número de rondas. La base puede tener defensas fijas de largo alcance como torretas, y puede haber unidades enemigas adicionales que intentarán retomar la base. Se recomienda llevar suficiente munición y blindaje.",
+    "Icon" : ""
+}

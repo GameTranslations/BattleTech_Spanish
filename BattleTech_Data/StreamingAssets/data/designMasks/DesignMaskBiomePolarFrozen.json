@@ -1,0 +1,12 @@
+{
+	"Description" : {
+		"Id" : "DesignMaskBiomePolarFrozen",
+		"Name" : "BIOMA POLAR",
+		"Details" : "Los biomas polares aumentan la capacidad de reducción térmica de una unidad en un 20%.",
+		"Icon" : "uixSvgIcon_biome_Polar"
+	},
+    "heatSinkMultiplier" : 1.2,
+    "heatPerTurn" : 0,
+	"audioSwitchSurfaceType" : "snow",
+	"audioSwitchRainingSurfaceType" : "snow"
+}

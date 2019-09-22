@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceHeat",
+    "Name" : "Rendimiento: Calor",
+    "Details" : "La eficiencia calórica relativa de un 'Mech se determina por su habilidad total para reducir Calor, comparada con el Calor total generado cada ronda por sus armas y capacidad de salto.",
+    "Icon" : ""
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechValue",
+    "Name" : "Precio",
+    "Details" : "El precio de un BattleMech se determina por una combinación de costes fijos de construcción del chasis, el tamaño del motor y su velocidad, el blindaje que lleva, y la cantidad y tipo de anclajes fijos y armas instaladas. El precio cambia más al equipar Jets de Salto y por las bonificaciones o penalizaciones a ataques melé inherentes al chasis del 'Mech.",
+    "Icon" : ""
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatMeleeStabilityDamage",
+    "Name" : "Daño Melé a Estabilidad",
+    "Details" : "El Daño Melé a la estabilidad es la cantidad de daño a estabilidad provocado específicamente por ataques Melé, según el diseño inherente del chasis del 'Mech atacante.",
+    "Icon" : ""
+}

@@ -1,0 +1,59 @@
+{
+    "Description" : {
+        "Id" : "background_youth_bankrupt",
+        "Name" : "Bancarrota Familiar",
+        "Details" : "El día de tu decimosexto cumpleaños, tu familia quedó en bancarrota, y tus padres se suicidaron.",
+        "Icon" : "uixTxrLogo_backgroundBankrupt",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_family_noble",
+				"commander_youth_bankrupt"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 0,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 0,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 1,
+    "UIOrdering" : 2,
+    "OptionName" : "Tu familia quedó en bancarrota.",
+	"OptionMusicTrigger" : "",
+    "OptionDescription" : "Mientras crecías, veías la fortuna de tu familia, sus ganancias y su influencia menguar lentamente - hasta que no quedó nada. Tus padres, arrastrados por la desesperación, se quitaron la vida.\r\n\r\nCon nada más que el ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] de tu familia como posesión, te vas para hacer una nueva vida por tu cuenta.\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics],Tácticas]], +1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts],Coraje]]",
+	"BioDescription" : "Mientras crecías, veías la fortuna de tu familia, sus ganancias y su influencia menguar lentamente - hasta que no quedó nada. Tus padres, arrastrados por la desesperación, se quitaron la vida.\r\n\r\nCon nada más que el ancestral Blackjack de tu familia como posesión, te vas para hacer una nueva vida por tu cuenta.\r\n"
+}

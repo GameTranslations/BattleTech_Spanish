@@ -1,0 +1,35 @@
+{
+   "identifier" : "inter_DecoyDestroyed",
+   "contents" : [
+      {
+         "words" : "El Lord Regente no está aquí, Comandante - ¡ese transporte es un señuelo!",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "Estoy recibiendo movimiento en mis sensores... múltiples vehículos con escolta 'mech, moviéndose hacia una carretera trasera de acceso hacia el búnker.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "Maldita sea. Lleve a alguien ahí, Comandante... si llega al búnker, vamos a pasar un infierno para abrirlo.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

@@ -1,0 +1,43 @@
+{
+	"Description" : {
+		"Id" : "TraitDefHealthAddThree",
+		"Name" : "Mayor Salud",
+		"Details" : "PASIVO: Este MechWarrior gana tres puntos extra de Salud.",
+		"Icon" : "uixSvgIcon_ability_mastertactician"
+	},
+	"Type" : "MaxHealth",
+	"ShortDesc" : "+ 3 Salud",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefHealthAddOne",
+				"Name" : "Mayor Salud",
+				"Details" : "Gana tres puntos extra de Salud",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+                "targetCollection" : "Pilot",
+				"statName" : "Health",
+				"operation" : "Int_Add",
+				"modValue" : "1",
+				"modType" : "System.Int32"
+			},
+			"nature" : "Buff"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"Description" : {
+		"Id" : "TraitDefCalledShotMaster",
+		"Name" : "Maestría en Tiro Apuntado",
+		"Details" : "PASIVO: Tiros Apuntados hechos por este MechWarrior acertarán casi seguro su blanco (máx de 35% de probabilidad para tiros a la cabeza).",
+		"Icon" : "uixSvgIcon_ability_mastertactician"
+	},
+	"Type" : "CalledShotBonus",
+	"ShortDesc" : "Maestría en Tiro Apuntado",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefCalledShotMaster",
+				"Name" : "Maestría en Tiro Apuntado",
+				"Details" : "Tiros Apuntados casi garantizados",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+				"statName" : "CalledShotBonusMultiplier",
+				"operation" : "Float_Multiply",
+				"modValue" : "3.75",
+				"modType" : "System.Single"
+			}
+		}
+	]
+}

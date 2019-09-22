@@ -1,0 +1,115 @@
+{
+    "Category" : "Energy",
+    "Type" : "PPC",
+    "WeaponSubType" : "PPC",
+    "MinRange" : 90,
+    "MaxRange" : 540,
+    "RangeSplit" : [
+        360,
+        360,
+        540
+    ],
+    "AmmoCategory" : "NotSet",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 35,
+    "Damage" : 50,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 0,
+    "AccuracyModifier" : -2,
+    "CriticalChanceMultiplier" : 1,
+    "AOECapable" : false,
+    "IndirectFireCapable" : false,
+    "RefireModifier" : 0,
+    "ShotsWhenFired" : 1,
+    "ProjectilesPerShot" : 1,
+    "AttackRecoil" : 3,
+    "Instability" : 20,
+    "WeaponEffectID" : "WeaponEffect-Weapon_PPC",
+    "Description" : {
+        "Cost" : 270000,
+        "Rarity" : 3,
+        "Purchasable" : true,
+        "Manufacturer" : "Tiegart",
+        "Model" : "Cañón Proyector de Partículas",
+        "UIName" : "CPP +",
+        "Id" : "Weapon_PPC_PPC_1-Tiegart",
+        "Name" : "CPP +",
+        "Details" : "Los Cañones Proyectores de Partículas\u2014CPPs\u2014disparan torrentes de rayos energéticos al blanco que provocan un daño sustancial y un impacto a su estabilidad. Sin embargo, causan una intensa generación de calor y son voluminosos. Los CPPs también generan un campo EM que degrada la capacidad de disparo del blanco.",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "BonusValueA" : "+ 2 Prec.",
+    "BonusValueB" : "",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "PPC",
+    "BattleValue" : 0,
+    "InventorySize" : 3,
+    "Tonnage" : 7,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+        {
+            "durationData" : {
+                "duration" : 1,
+                "ticksOnActivations" : true,
+                "useActivationsOfTarget" : true,
+                "ticksOnEndOfRound" : false,
+                "ticksOnMovements" : false,
+                "stackLimit" : 0,
+                "clearedWhenAttacked" : false
+            },
+            "targetingData" : {
+                "effectTriggerType" : "OnHit",
+                "triggerLimit" : 0,
+                "extendDurationOnTrigger" : 0,
+                "specialRules" : "NotSet",
+                "effectTargetType" : "NotSet",
+                "range" : 0,
+                "forcePathRebuild" : false,
+                "forceVisRebuild" : false,
+                "showInTargetPreview" : true,
+                "showInStatusPanel" : true
+            },
+            "effectType" : "StatisticEffect",
+            "Description" : {
+                "Id" : "AbilityDefPPC",
+                "Name" : "SENSORES DAÑADOS",
+                "Details" : "[AMT] Dificultad para todos los ataques de esta unidad hasta su siguiente activación.",
+                "Icon" : "uixSvgIcon_status_sensorsImpaired"
+            },
+            "nature" : "Debuff",
+            "statisticData" : {
+                "appliesEachTick" : false,
+                "effectsPersistAfterDestruction" : false,
+                "statName" : "AccuracyModifier",
+                "operation" : "Float_Add",
+                "modValue" : "1.0",
+                "modType" : "System.Single",
+                "additionalRules" : "NotSet",
+                "targetCollection" : "NotSet",
+                "targetWeaponCategory" : "NotSet",
+                "targetWeaponType" : "NotSet",
+                "targetAmmoCategory" : "NotSet",
+                "targetWeaponSubType" : "NotSet"
+            },
+            "tagData" : null,
+            "floatieData" : null,
+            "actorBurningData" : null,
+            "vfxData" : null,
+            "instantModData" : null,
+            "poorlyMaintainedEffectData" : null
+        }
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_variant",
+            "component_type_variant1",
+            "range_very-long"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

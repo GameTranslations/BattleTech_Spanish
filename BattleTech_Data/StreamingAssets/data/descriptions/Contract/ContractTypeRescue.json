@@ -1,0 +1,6 @@
+{
+    "Id" : "ContractTypeRescue",
+    "Name" : "Recuperación",
+    "Details" : "Tu objetivo es llegar a una región específica, recoger el blanco a recuperar, y salir por una región de escape. La unidad que recoja el blanco a recuperar será atacada por fuerzas enemigas, por ello debería ser capaz de aguantar algo de castigo. Moverse rápidamente a la región de escape es crítico, mientras que no se necesita derrotar a ninguna unidad defensora para completar el contrato.",
+    "Icon" : ""
+}

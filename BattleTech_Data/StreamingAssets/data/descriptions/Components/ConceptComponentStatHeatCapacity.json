@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHeatCapacity",
+    "Name" : "Capacidad Térmica",
+    "Details" : "La Capacidad Térmica determina los límites en los que un 'Mech se Sobrecalienta o sufre un Apagón. Cada 'Mech es capaz de almacenar 100 puntos de Calor como referencia inicial.",
+    "Icon" : ""
+}

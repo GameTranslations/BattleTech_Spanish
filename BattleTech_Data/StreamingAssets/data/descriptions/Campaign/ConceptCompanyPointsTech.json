@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyPointsTech",
+    "Name" : "Puntos Tech",
+    "Details" : "Los Puntos Tech se generan cada día y se gastan en reparar o personalizar BattleMechs. Los Puntos Tech solo se aplican a una tarea de 'Mech cada vez, así que adicionales tareas son puestas en cola para trabajarse una tras otra.",
+    "Icon" : ""
+}

@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_Barracks_Defend",
+      "Name" : "Barracas",
+      "Details" : "Unas barracas. Las estructuras etiquetadas 'Defender' son más robustas, pensadas para encuentros de defender base.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : true,
+   "StructurePoints" : 100,
+   "Opacity" : 100
+}

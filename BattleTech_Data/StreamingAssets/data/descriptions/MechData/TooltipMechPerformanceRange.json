@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceRange",
+    "Name" : "Rendimiento: Alcance",
+    "Details" : "El alcance relativo de un 'Mech se determina calculando el alcance promedio de todos sus sistemas de armas.",
+    "Icon" : ""
+}

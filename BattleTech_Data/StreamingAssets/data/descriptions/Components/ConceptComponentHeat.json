@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentHeat",
+    "Name" : "Calor",
+    "Details" : "La generación de Calor aumenta el nivel térmico medio de la unidad atacante. Demasiado Calor puede causar que una unidad reciba daño a sus puntos internos de Estructura, o incluso sufrir un Apagado.\n\nEl Calor se elimina al final de cada acción, en base al número de Disipadores que tenga instalados la unidad.",
+    "Icon" : ""
+}

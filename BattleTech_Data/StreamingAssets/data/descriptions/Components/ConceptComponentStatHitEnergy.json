@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHitEnergy",
+    "Name" : "Apuntado Energético",
+    "Details" : "El Apuntado Energético afecta a la precisión promedio de toda arma de Energía equipada, según la dificultad de su ataque actual.",
+    "Icon" : ""
+}

@@ -1,0 +1,17 @@
+{
+   "identifier" : "DefaultMissionStart",
+   "contents" : [
+      {
+         "words" : "Allá vamos. (POR HACER- Diálogo de Inicio de Misión por defecto - necesitar considerar juegos de palabras, randomización, etc.)",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "selectedCastDefId" : "castDef_None",
+         "emote" : "Default",
+         "audioName" : ""
+      }
+   ]
+}

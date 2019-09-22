@@ -1,0 +1,55 @@
+{
+   "identifier" : "inter_AranoBetrayal",
+   "contents" : [
+      {
+         "words" : "Señor Raju. Lady Kamea. Llegan tarde.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "¿Qué estáis haciendo aquí, colegas? Deberíais estar en las pistas del torneo.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "Cambio de planes. Escoltaremos a Lady Kamea el resto del camino hasta el torneo.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "¿Quién autorizó esto? Yo no firmé ningún cambio de planes--",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "No tenemos tiempo para esto. Al diablo con todo, colegas - armas listas. Ya sabéis qué hacer.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

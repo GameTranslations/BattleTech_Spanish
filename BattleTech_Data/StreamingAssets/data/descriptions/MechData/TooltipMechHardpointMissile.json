@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechHardpointMissile",
+    "Name" : "Anclajes de Misiles",
+    "Details" : "Un 'Mech puede montar un número limitado de armas de cada tipo, representado por sus 'anclajes fijos'. Los anclajes de misiles pueden montar sistemas de misiles de alcance corto y largo (MACs y MALs).",
+    "Icon" : "uixSvgIcon_weapon_Missile"
+}

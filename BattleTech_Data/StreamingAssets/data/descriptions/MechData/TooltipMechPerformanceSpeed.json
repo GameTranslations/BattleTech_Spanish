@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceSpeed",
+    "Name" : "Rendimiento: Movimiento",
+    "Details" : "La capacidad de movimiento relativa de un 'Mech se determina totalizando su velocidad de movimiento y, en menor medida, su capacidad de salto.",
+    "Icon" : ""
+}

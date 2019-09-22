@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_turretGenerator",
+      "Name" : "Generador de Torreta",
+      "Details" : "Generador de torreta.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : true,
+   "StructurePoints" : 100,
+   "Opacity" : 100
+}

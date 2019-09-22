@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechHardpointSmall",
+    "Name" : "Support Weapon Hardpoints",
+    "Details" : "Un 'Mech puede montar un número limitado de armas de cada tipo, representado por sus 'anclajes fijos'. Los anclajes de armas de apoyo pueden montar sistemas de armas antipersonal, incluyendo el Láser Pequeño, la Ametralladora, y el Lanzallamas.",
+    "Icon" : "uixSvgIcon_weapon_Support"
+}

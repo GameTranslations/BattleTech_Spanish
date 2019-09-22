@@ -1,0 +1,59 @@
+{
+    "Description" : {
+        "Id" : "background_ancestry_Marik",
+        "Name" : "Marik",
+        "Details" : "Hace décadas, tu familia llegó a la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]] desde la [[DM.Factions[faction_Marik],Liga de Mundos Libres]].",
+        "Icon" : "uixTxrLogo_Marik",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_ancestry_marik"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 0,
+	"UIOrdering" : 1,
+	"OptionName" : "La Liga de Mundos Libres (Marik)",
+	"OptionMusicTrigger" : "marik",
+	"OptionDescription" : "Los MechWarriors que proceden de la [[DM.Factions[faction_Marik],Liga de Mundos Libres]] tienden a ser luchadores apasionados, resistentes, que valoran la justicia y la igualdad sobre todo lo demás.\r\n\r\nEl más antiguo, y en teoría más democrático, de los grandes [[DM.BaseDescriptionDefs[LoreSuccessorState],Estados Sucesores]] de la [[DM.BaseDescriptionDefs[LoreInnerSphere],Esfera Interior]], la Liga de los Mundos Libres es actualmente una variada coalición de multitud de casas nobles menores. En la mayor parte de la historia de la Liga, ha sido gobernada bajo ley marcial por un Capitán General, que por tradición es de la [[DM.BaseDescriptionDefs[LoreHouseMarik],Casa Marik]]. La diversidad cultural y relativa independencia de sus regiones integrantes es la mayor fuerza de la Liga de los Mundos Libres, y a la vez su mayor debilidad.",
+	"BioDescription" : "Hace décadas, tu familia llegó a la Extensión Aurigana desde la Liga de los Mundos Libres. Los MechWarriors que proceden de la Liga de los Mundos Libres tienden a ser luchadores apasionados, resistentes, que valoran la justicia y la igualdad sobre todo lo demás. La diversidad cultural y relativa independencia de sus regiones integrantes es la mayor fuerza de la Liga de los Mundos Libres, y a la vez su mayor debilidad.\r\n"
+
+}

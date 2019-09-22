@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractOutcomeGoodFaithFailure",
+    "Name" : "Buena Fe",
+    "Details" : "Los contratos mercenarios ofrecen un pago parcial por intentos de buena fe, incluso si el contrato en general se ha fallado. Para esforzarte y clasificarlo como intento de buena fe, debes completar al menos un objetivo de misión y derrotar al menos a una unidad enemiga.",
+    "Icon" : ""
+}

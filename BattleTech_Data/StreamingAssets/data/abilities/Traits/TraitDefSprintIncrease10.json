@@ -1,0 +1,44 @@
+{
+	"Description" : {
+		"Id" : "TraitDefSprintIncrease10",
+		"Name" : "Mayor Esprint",
+		"Details" : "PASIVO: Los 'Mechs pilotados por este MechWarrior ganan 10% de distancia de Esprint.",
+		"Icon" : "uixSvgIcon_action_evasivemove"
+	},
+	"Type" : "SprintDistance",
+	"ShortDesc" : "+ 10% Esprint Máx.",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator",
+                "showInTargetPreview" : false,
+                "showInStatusPanel" : false
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefSprintIncrease10",
+				"Name" : "Mayor Esprint",
+				"Details" : "Gana 10% de distancia de Esprint",
+				"Icon" : "uixSvgIcon_action_evasivemove"
+			},
+			"statisticData" : 
+			{
+				"statName" : "RunSpeed",
+				"operation" : "Float_Multiply",
+				"modValue" : "1.1",
+				"modType" : "System.Single"
+			},
+			"nature" : "Buff"
+		}
+	]
+}

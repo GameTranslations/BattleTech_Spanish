@@ -1,0 +1,25 @@
+{
+   "identifier" : "CaptureEscortAndDefend_StartBrief",
+   "contents" : [
+      {
+         "words" : "Escuchen. Estamos en contacto con fuerzas amigas. Están atrincheradas en la estructura objetivo. ",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "Necesitamos asegurar los alrededores para que puedan salir del edificio y logren llegar al punto de extracción. Manténganlos a salvo a toda costa.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

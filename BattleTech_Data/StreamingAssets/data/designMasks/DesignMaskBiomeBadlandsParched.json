@@ -1,0 +1,12 @@
+{
+	"Description" : {
+		"Id" : "DesignMaskBiomeBadlandsParched",
+		"Name" : "BIOMA PÁRAMOS",
+		"Details" : "Las unidades en los Páramos sólo reducen un 85% de su Calor normal.",
+		"Icon" : "uixSvgIcon_biome_Heated"
+	},
+    "heatSinkMultiplier" : 0.85,
+    "heatPerTurn" : 0,
+	"audioSwitchSurfaceType" : "dirt",
+	"audioSwitchRainingSurfaceType" : "mud"
+}

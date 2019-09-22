@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_Civilian_Small",
+      "Name" : "Edificio Pequeño",
+      "Details" : "Edificio pequeño.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : true,
+   "StructurePoints" : 25,
+   "Opacity" : 100
+}

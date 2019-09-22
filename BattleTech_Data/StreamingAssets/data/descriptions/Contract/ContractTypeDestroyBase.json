@@ -1,0 +1,6 @@
+{
+    "Id" : "ContractTypeDestroyBase",
+    "Name" : "Destruir Base",
+    "Details" : "Tu objetivo es destruir todos los edificios marcados en la instalación blanco. No es necesario derrotar a las unidades defensoras para completar el contrato. La instalación puede tener defensas fijas de largo alcance, así que se sugieren 'Mechs que puedan aguantar fuego constante o que puedan responder a distancia.",
+    "Icon" : ""
+}

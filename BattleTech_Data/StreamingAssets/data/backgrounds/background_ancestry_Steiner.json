@@ -1,0 +1,58 @@
+{
+    "Description" : {
+        "Id" : "background_ancestry_Steiner",
+        "Name" : "Steiner",
+        "Details" : "Hace décadas, tu familia llegó a la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]] desde la [[DM.Factions[faction_Steiner],Mancomunidad Lirana]].",
+        "Icon" : "uixTxrLogo_Steiner",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_ancestry_steiner"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 0,
+	"UIOrdering" : 3,
+	"OptionName" : "La Mancomunidad Lirana (Steiner)",
+	"OptionMusicTrigger" : "steiner",
+	"OptionDescription" : "Los MechWarriors que proceden de la [[DM.Factions[faction_Steiner],Mancomunidad Lirana]] tienden a ser duros, bien entrenados y equipados, aunque se hayan ganado también una reputación por no ser pensadores estratégicos particularmente en el campo de batalla.\r\n\r\nLa riqueza es la mayor fuerza de los príncipes mercantes de la Mancomunidad Lirana, gobernada por la [[DM.BaseDescriptionDefs[LoreHouseSteiner],Casa Steiner]]. A pesar de un número de humillantes derrotas en las dos primeras [[DM.BaseDescriptionDefs[LoreSuccessionWars],Guerras Sucesorias]], la Mancomunidad Lirana se ha recuperado gracias a la fuerza combinada de su economía (la mayor de los cinco grandes [[DM.BaseDescriptionDefs[LoreSuccessorState],Estados Sucesores]]) y su control de las mayores factorías activas de BattleMechs de la [[DM.BaseDescriptionDefs[LoreInnerSphere],Esfera Interior]]. Lo que le falte a la Mancomunidad Lirana en habilidad militar, lo suple con superioridad numérica y escala industrial.",
+	"BioDescription" : "Hace décadas, tu familia llegó a la Extensión Aurigana desde la Mancomunidad Lirana. Los MechWarriors que proceden de la Mancomunidad Lirana tienden a ser duros, bien entrenados y equipados, aunque se hayan ganado también una reputación por no ser pensadores estratégicos particularmente en el campo de batalla. La riqueza es la mayor fuerza de los príncipes mercantes de la Mancomunidad Lirana.\r\n"
+}

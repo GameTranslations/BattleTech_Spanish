@@ -1,0 +1,15 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_Road",
+      "Name" : "Carretera",
+      "Details" : "Una carretera.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : false,
+   "StructurePoints" : 0,
+   "Opacity" : 100,
+   "TerrainMask" : "Road"
+}

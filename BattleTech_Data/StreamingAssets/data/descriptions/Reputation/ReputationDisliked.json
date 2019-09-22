@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationDisliked",
+    "Name" : "Reputación: Antipática",
+    "Details" : "Con reputación antipática, esta facción tiene razones para no confiar en ti. Recibirás un 10% menos en el pago de contratos y pagarás un 20% más en las tiendas de sistemas que esta facción controle.",
+    "Icon" : "uixTxrIcon_rep_-1"
+}

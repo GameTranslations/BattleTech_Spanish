@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStability",
+    "Name" : "Daño a Estabilidad",
+    "Details" : "El daño a estabilidad es la cantidad de fuerza con la que un arma impacta contra su objetivo. Dependiendo de la cantidad total de daño a estabilidad realizado por un ataque, el blanco puede volverse INESTABLE o incluso ser Derribado.",
+    "Icon" : ""
+}

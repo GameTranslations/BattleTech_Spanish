@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipBudgetSectionUpkeep",
+    "Name" : "Mantenimiento de la Argo",
+    "Details" : "La <i>Argo</i> es una gran, compleja y pobremente entendida pieza de hardware de la cual depende tu vida, así como tu sustento. Mantenerla operativa es el gasto mensual más importante que tiene tu compañía, y esto engloba reparaciones, mantenimiento, reabastecimientos, y un grado de suerte.\n\nNo puedes reducir este gasto; es lo básico como coste de operaciones de la <i>Argo</i>.",
+    "Icon" : ""
+}

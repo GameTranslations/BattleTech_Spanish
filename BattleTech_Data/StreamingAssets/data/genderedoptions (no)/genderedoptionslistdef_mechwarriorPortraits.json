@@ -1,0 +1,43 @@
+{
+   "ID" : "genderedoptionslistdef_mechwarriorPortraits",
+   "optionsList" : [
+      {
+         "k" : "None",
+         "v" : [
+            
+         ]
+      },
+      {
+         "k" : "Female",
+         "v" : [
+            "Ápex",
+            "Arco Voltaico",
+            "Cartucho",
+            "Gárgola",
+            "Sinsonte",
+            "Sobrecarga",
+            "Showboat",
+            "Fuego Salvaje"
+         ]
+      },
+      {
+         "k" : "Male",
+         "v" : [
+            "Altavoz",
+            "Baluarte",
+            "Kraken",
+            "Mirmidón",
+            "Ozono",
+            "Paraíso",
+            "Sumo",
+            "Testigo"
+         ]
+      },
+      {
+         "k" : "NonBinary",
+         "v" : [
+            
+         ]
+      }
+   ]
+}

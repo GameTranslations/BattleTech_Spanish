@@ -1,0 +1,70 @@
+{
+	"Description" : {
+		"Id" : "AbilityDefT8A",
+		"Name" : "MAESTRO TÁCTICO",
+		"Details" : "PASIVO: Los 'Mechs pilotados por este MechWarrior ganan +1 Iniciativa, y eliminan una barra de daño de inestabilidad al Reservarse.",
+		"Icon" : "uixSvgIcon_ability_mastertactician"
+	},
+    "DisplayParams" : "ShowInMWTRay",
+	"ReqSkill" : "Tactics",
+	"ReqSkillLevel" : 8,
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "AbilityDefT8A",
+				"Name" : "MAESTRO TÁCTICO",
+				"Details" : "+1 a la Iniciativa base",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+				"statName" : "BaseInitiative",
+				"operation" : "Int_Add",
+				"modValue" : "-1",
+				"modType" : "System.Int32"
+			},
+			"nature" : "Buff"
+		},
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "AbilityDefT8A",
+				"Name" : "MAESTRO TÁCTICO",
+				"Details" : "ACCIÓN DE RETRASO ELIMINA INESTABLE",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+				"statName" : "DeferResetsInstability",
+				"operation" : "Set",
+				"modValue" : "true",
+				"modType" : "System.Boolean"
+			},
+			"nature" : "Buff"
+		}
+	],
+	"IsPrimaryAbility" : true
+}

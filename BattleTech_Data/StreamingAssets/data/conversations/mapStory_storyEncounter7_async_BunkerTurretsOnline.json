@@ -1,0 +1,15 @@
+{
+   "identifier" : "mapStory_storyEncounter7_async_BunkerTurretsOnline",
+   "contents" : [
+      {
+         "words" : "Cuidado, Comandante. Las defensas estáticas de ese búnker acaban de activarse.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

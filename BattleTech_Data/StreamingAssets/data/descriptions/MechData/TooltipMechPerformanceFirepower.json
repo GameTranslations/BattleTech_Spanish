@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceFirepower",
+    "Name" : "Rendimiento: Potencia de Fuego",
+    "Details" : "La potencia de fuego relativa de un 'Mech se determina por el total del daño posible de todas sus armas.",
+    "Icon" : ""
+}

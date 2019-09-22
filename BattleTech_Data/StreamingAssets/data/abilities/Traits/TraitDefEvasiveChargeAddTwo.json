@@ -1,0 +1,42 @@
+{
+	"Description" : {
+		"Id" : "TraitDefEvasiveChargeAddTwo",
+		"Name" : "Mayor Tope de Evasión",
+		"Details" : "PASIVO: Los 'Mechs pilotados por este MechWarrior tienen su tope de cargas EVASIVAS aumentado en 2.",
+		"Icon" : "uixSvgIcon_ability_mastertactician"
+	},
+	"Type" : "EvasionCap",
+	"ShortDesc" : "+ 2 Evasión Máx",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefEvasiveChargeAddOne",
+				"Name" : "Mayor Tope de Evasión",
+				"Details" : "Tope de cargas EVASIVAS aumentado en 2",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+				"statName" : "MaxEvasivePips",
+				"operation" : "Int_Add",
+				"modValue" : "1",
+				"modType" : "System.Int32"
+			},
+			"nature" : "Buff"
+		}
+	]
+}

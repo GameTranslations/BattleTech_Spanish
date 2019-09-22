@@ -1,0 +1,44 @@
+{
+	"Description" : {
+		"Id" : "TraitDefUnsteadySet80",
+		"Name" : "'Mech Más Estable",
+		"Details" : "PASIVO: Los 'Mechs pilotados por este MechWarrior tienen su umbral de INESTABILIDAD aumentado a 80.",
+		"Icon" : "uixSvgIcon_action_evasivemove"
+	},
+	"Type" : "UnsteadyThreshold",
+	"ShortDesc" : "+ 2 a Lím. de Inestabilidad",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator",
+                "showInTargetPreview" : false,
+                "showInStatusPanel" : false
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefUnsteadySet80",
+				"Name" : "'Mech Más Estable",
+				"Details" : "Umbral de INESTABILIDAD aumentado a 80",
+				"Icon" : "uixSvgIcon_action_evasivemove"
+			},
+			"statisticData" : 
+			{
+				"statName" : "UnsteadyThreshold",
+				"operation" : "Set",
+				"modValue" : "81.0",
+				"modType" : "System.Single"
+			},
+			"nature" : "Buff"
+		}
+	]
+}

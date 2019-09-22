@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatDFADamage",
+    "Name" : "Daño MDA",
+    "Details" : "El daño producido por ataques de 'Muerte desde Arriba' se basa en el diseño inherente del chasis del 'Mech agresor. El daño MDA se calcula en dos golpes potenciales—uno por cada pierna.",
+    "Icon" : ""
+}

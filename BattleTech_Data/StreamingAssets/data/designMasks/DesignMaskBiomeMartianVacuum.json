@@ -1,0 +1,13 @@
+{
+	"Description" : {
+		"Id" : "DesignMaskBiomeMartianVacuum",
+		"Name" : "BIOMA MARCIANO",
+		"Details" : "Las unidades en un vacío parcial sólo reducen un 75% de su Calor normal.",
+		"Icon" : "uixSvgIcon_biome_PartialVacuum"
+	},
+    "heatSinkMultiplier" : 0.75,
+    "heatPerTurn" : 0,
+	"audioSwitchSurfaceType" : "dirt",
+	"audioSwitchRainingSurfaceType" : "dirt",
+	"vfxNameModifier" : "_mars"
+}

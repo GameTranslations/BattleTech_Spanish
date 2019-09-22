@@ -1,0 +1,6 @@
+{
+    "Id" : "BiomeTundra",
+    "Name" : "Tundra",
+    "Details" : "E bioma de Tundra es un frío bosque boreal, con picos helados y árido permafrost. El calor El calor se disipa mucho mejor en este bioma, pero bolsas ocasionales de termas calentadas geotérmicamente pueden reducir la eficiencia térmica de cualquier 'Mech que esté sobre ellas.",
+    "Icon" : "uixSvgIcon_biome_Cooled"
+}

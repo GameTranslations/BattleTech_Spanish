@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentRange",
+    "Name" : "Alcance",
+    "Details" : "El alcance indica la distancia en metros que un arma es capaz de disparar. Cada arma tiene un Alcance Óptimo sin penalizaciones de ataque, y un Alcance Máximo con algunas penalizaciones. Algunas armas también tienen un Alcance Mínimo con una penalización severa al ataque.\n\nLas armas son etiquetadas como Corto, Estándar, Largo, Muy Largo o Extremo, en base a su perfil de alcance total.",
+    "Icon" : ""
+}

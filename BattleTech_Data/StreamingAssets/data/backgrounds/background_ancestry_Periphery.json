@@ -1,0 +1,58 @@
+{
+    "Description" : {
+        "Id" : "background_ancestry_Periphery",
+        "Name" : "Periferia",
+        "Details" : "Hace décadas, tu familia llegó a la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]] desde la [[DM.BaseDescriptionDefs[LoreRimwardPeriphery],Periferia Sur]].",
+        "Icon" : "uixTxrLogo_Locals",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_ancestry_periphery"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 0,
+	"UIOrdering" : 7,
+	"OptionName" : "La Periferia Sur",
+	"OptionMusicTrigger" : "rimward",
+	"OptionDescription" : "No hay modo sencillo de caracterizar a los MechWarriors que proceden de la  [[DM.BaseDescriptionDefs[LoreRimwardPeriphery],Periferia Sur]] - pueden ser cualquier cosa, pandilleros mezquinos, militares implacables o hábiles guerreros honorables.\r\n\r\nLas naciones y casas nobles menores de la Periferia Sur han jugado durante mucho tiempo un papel en moldear a la humanidad - la caída de la  [[DM.BaseDescriptionDefs[LoreStarLeague],Liga Estelar]] comenzó en la Periferia, llevando eventualmente al estado actual desgarrado de tantos sistemas estelares dispares en el borde del espacio conocido. La Periferia sigue siendo la frontera galáctica, donde las Grandes Casas de la [[DM.BaseDescriptionDefs[LoreInnerSphere],Esfera Interior]] juegan políticas mortales, prosperan insignificantes reinos bandidos y bandas de piratas asaltan a las casas nobles menores intentando sobrevivir en este ambiente hostil.",
+	"BioDescription" : "Hace décadas, tu familia llegó a la Extensión Aurigana desde la Periferia Sur. No hay modo sencillo de caracterizar a los MechWarriors que proceden de la Periferia Sur - pueden ser cualquier cosa, pandilleros mezquinos, militares implacables o hábiles guerreros honorables. La Periferia es la frontera galáctica; políticas insignificantes y piratería dominan la región."
+}

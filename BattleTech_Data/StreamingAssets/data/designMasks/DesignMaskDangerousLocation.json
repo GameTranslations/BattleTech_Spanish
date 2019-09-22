@@ -1,0 +1,10 @@
+{
+	"Description" : {
+		"Id" : "DesignMaskDangerousLocation",
+		"Name" : "ZONA PELIGROSA",
+		"Details" : "Esta es una zona peligrosa. Quédate aquí bajo tu responsabilidad.",
+		"Icon" : null
+	},
+    "heatSinkMultiplier" : 1.0,
+    "heatPerTurn" : 0
+}

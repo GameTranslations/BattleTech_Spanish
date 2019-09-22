@@ -1,0 +1,13 @@
+{
+	"Description" : {
+		"Id" : "TraitDefMeleeHit1",
+		"Name" : "",
+		"Details" : "",
+		"Icon" : ""
+	},
+	"Type" : "MeleeHit",
+	"ShortDesc" : "+ 2.5% a Golpe Melé Base",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" : []
+}

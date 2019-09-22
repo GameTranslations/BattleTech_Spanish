@@ -1,0 +1,59 @@
+{
+    "Description" : {
+        "Id" : "background_career_pirate",
+        "Name" : "Pirata",
+        "Details" : "Por tu cuenta, caíste en la vida de Pirata Fronterizo.",
+        "Icon" : "envTxrHrld_startPirate",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_career_pirate"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 2,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 2,
+	"UIOrdering" : 1,
+	"OptionName" : "Pirata Fronterizo",
+	"OptionMusicTrigger" : "",
+	"OptionDescription" : "Con hastío de vivir bajo la autoridad de otros, te metiste en una banda pirata local de la  [[DM.BaseDescriptionDefs[LoreRimwardPeriphery],Periferia Sur]]. Era una tripulación anárquica, pero efectiva - vagar por la Periferia te ofreció una provisión constante de caravanas pobremente defendidas y depósitos de suministros a los que apresar. Mientras que las incursiones acababan ocasionalmente en combate, aprendiste rápidamente que la piratería de éxito se basa en estar en el lugar concreto, en el momento adecuado, con la amenaza correcta y una buena muestra de fuerza.\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts],Coraje]]",
+    "Intro" : "Tras años de vagar por la Frontera, a tu grupo se le acabó la suerte, yendo a parar a una prisión de la [[DM.BaseDescriptionDefs[LoreAuriganCoalition],Coalición Aurigana]]. Sabiendo de tu mala fortuna, Raju te sacó de la cárcel, dándote una segunda oportunidad bajo su tutela. Tras una drástica rehabilitación, probaste tu valía y se te reclutó en la Guardia Real de la [[DM.BaseDescriptionDefs[LoreHouseArano],Casa Arano]].\r\n\r\nAsí que te reencuentras con tu viejo mentor, preparando tu ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] para tareas de vigilancia en la coronación de [[DM.BaseDescriptionDefs[LoreKameaArano],Lady Kamea Arano]]…",
+	"BioDescription" : "Con hastío de vivir bajo la autoridad de otros, te metiste en una banda pirata local de la Periferia Sur. Era una tripulación anárquica, pero efectiva - vagar por la Periferia te ofreció una provisión constante de caravanas pobremente defendidas y depósitos de suministros a los que apresar. Mientras que las incursiones acababan ocasionalmente en combate, aprendiste rápidamente que la piratería de éxito se basa en estar en el lugar concreto, en el momento adecuado, con la amenaza correcta y una buena muestra de fuerza.\r\n"
+}

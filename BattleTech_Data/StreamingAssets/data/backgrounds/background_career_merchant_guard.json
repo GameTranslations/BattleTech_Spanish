@@ -1,0 +1,59 @@
+{
+    "Description" : {
+        "Id" : "background_career_merchant_guard",
+        "Name" : "Guarda Mercante",
+        "Details" : "Por tu cuenta, caíste en la vida de un Guarda Mercante.",
+        "Icon" : "envTxrHrld_startMerchantGuard",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_career_merchantGuard"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 2,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 2,
+	"UIOrdering" : 5,
+	"OptionName" : "Guarda Mercante",
+	"OptionMusicTrigger" : "",
+	"OptionDescription" : "Firmaste como guarda en un pequeño gremio mercante, ofreciendo seguridad a la caravana del gremio mientras hacía rutas de comercio entre la [[DM.BaseDescriptionDefs[LoreInnerSphere],Esfera Interior]] y la [[DM.BaseDescriptionDefs[LoreRimwardPeriphery],Periferia]]. Fue una vida ampliamente anodina, aunque fuiste capaz de poner tus habilidades de MechWarrior en buen uso en la ocasional trifulca con piratas y gobiernos locales poco colaboradores.\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorPiloting],Pilotaje]]",
+    "Intro" : "Mientras escoltabas una caravana de suministros a un puesto de avanzadilla en las postrimerías de la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]], caíste en una emboscada pirata y te creyeron cadáver. Raju estaba visitando la capital y recibió tu llamada de auxilio. Tras rescatarte te ofreció un trabajo en la Guardia Real de la [[DM.BaseDescriptionDefs[LoreHouseArano],Casa Arano]].\r\n\r\nAsí que te reencuentras con tu viejo mentor, preparando tu ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] para tareas de vigilancia en la coronación de [[DM.BaseDescriptionDefs[LoreKameaArano],Lady Kamea Arano]]…",
+	"BioDescription" : "Firmaste como guarda en un pequeño gremio mercante, ofreciendo seguridad a la caravana del gremio mientras hacía rutas de comercio entre la Esfera Interior y la Periferia. Fue una vida ampliamente anodina, aunque fuiste capaz de poner tus habilidades de MechWarrior en buen uso en la ocasional trifulca con piratas y gobiernos locales poco colaboradores.\r\n"
+}

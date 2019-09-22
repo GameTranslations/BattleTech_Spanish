@@ -1,0 +1,58 @@
+{
+    "Description" : {
+        "Id" : "background_ancestry_Magistracy",
+        "Name" : "Magistracy",
+        "Details" : "Hace décadas, tu familia llegó a la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]] desde la [[DM.Factions[faction_MagistracyOfCanopus],Magistratura de Canopus]].",
+        "Icon" : "uixTxrLogo_MagistracyOfCanopus",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_ancestry_magistracy"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 0,
+	"UIOrdering" : 5,
+	"OptionName" : "La Magistratura de Canopus",
+	"OptionMusicTrigger" : "canopus",
+	"OptionDescription" : "Los MechWarriors que proceden de la [[DM.Factions[faction_MagistracyOfCanopus],Magistratura de Canopus]] pueden abarcar una gama de estilos de lucha y habilidades, pero a menudo prefieren tácticas inteligentes y heterodoxas en el campo.\r\n\r\nAun siendo más pequeña que los [[DM.BaseDescriptionDefs[LoreSuccessorState],Estados Sucesores]] de la [[DM.BaseDescriptionDefs[LoreInnerSphere],Esfera Interior]], la Magistratura de Canopus es una de las mayores potencias de la [[DM.BaseDescriptionDefs[LoreRimwardPeriphery],Periferia Sureña]]. La Magistratura es una sociedad matriarcal liderada por una Magestrix. Es una posición elegida disponible para cualquier mujer, pero ampliamente controlada por la [[DM.BaseDescriptionDefs[LoreHouseCentrella],Casa Centrella]] debido a la popularidad de la familia. La Magistratura apoya una sociedad abierta que asegure la libertad personal de todos los ciudadanos y su derecho a vivir sus vidas como les parezca.",
+	"BioDescription" : "Hace décadas, tu familia llegó a la Extensión Aurigana desde la Magistratura de Canopus. Los MechWarriors que proceden de la Magistratura de Canopus a menudo prefieren tácticas inteligentes y heterodoxas en el campo. La Magistratura apoya una sociedad abierta que asegure la libertad personal de todos los ciudadanos y su derecho a vivir sus vidas como les parezca.\r\n"
+}

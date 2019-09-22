@@ -1,0 +1,15 @@
+{
+   "identifier" : "CaptureEscortAndDefend_ExtractionVehicleReport",
+   "contents" : [
+      {
+         "words" : "Camarada Comandante. Aquí el vehículo de extracción del objetivo, Jinete Fantasma. Estamos a 2 minutos. Mantega su perímetro.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentDamage",
+    "Name" : "Daño",
+    "Details" : "El daño es el número de puntos de Blindaje o Estructura que esta arma destruirá al impactar. Si una zona en un objetivo es destruida, el daño restante se transferirá a la siguiente zona adyacente.",
+    "Icon" : ""
+}

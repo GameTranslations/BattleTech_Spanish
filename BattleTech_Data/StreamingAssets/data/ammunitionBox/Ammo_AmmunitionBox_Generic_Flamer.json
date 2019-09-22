@@ -1,0 +1,36 @@
+{
+    "AmmoID" : "Ammunition_Flamer",
+    "Capacity" : 6,
+    "Description" : {
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false,
+        "Manufacturer" : "Genérico",
+        "Model" : "( Lanzallamas )",
+        "UIName" : "Lanzallamas",
+        "Id" : "Ammo_AmmunitionBox_Generic_Flamer",
+        "Name" : "Lanzallamas",
+        "Details" : "Las cajas de munición contienen las balas necesarias para las armas de proyectiles, se necesita al menos una caja por tipo de arma. Explotarán y destruirán la zona donde estén instaladas si reciben un Golpe Crítico. Las Cajas de Munición de Lanzallamas contienen cada una 6 cargas y pueden alimentar varias armas.",
+        "Icon" : "uixSvgIcon_ammoBox_Support"
+    },
+    "BonusValueA" : "",
+    "BonusValueB" : "",
+    "ComponentType" : "AmmunitionBox",
+    "ComponentSubType" : "Ammunition",
+    "PrefabIdentifier" : "",
+    "BattleValue" : 0,
+    "InventorySize" : 1,
+    "Tonnage" : 1,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+        
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_debug"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

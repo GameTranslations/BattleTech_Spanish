@@ -1,0 +1,18 @@
+{
+   "Description" : {
+      "Id" : "Ammunition_SRM",
+      "Name" : "Mun. MAC",
+      "Details" : "Misiles de alcance corto, capaces de provocar grandes daños a corto alcance con sus cargas en forma de ojivas.",
+      "Icon" : null,
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Type" : "Normal",
+   "Category" : "SRM",
+   "HeatGenerated" : 0,
+   "HeatGeneratedModifier" : 1,
+   "ArmorDamageModifier" : 1,
+   "ISDamageModifier" : 1,
+   "CriticalDamageModifier" : 1
+}

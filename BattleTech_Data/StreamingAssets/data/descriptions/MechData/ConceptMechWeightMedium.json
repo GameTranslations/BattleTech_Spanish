@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWeightMedium",
+    "Name" : "Clase: Medio",
+    "Details" : "Los BattleMechs Medios portan un arsenal respetable, una velocidad superior a la media y niveles de blindaje variados. Como su configuración tiende a ser genérica, los 'Mechs medios son a menudo capaces de ocupar distintos papeles en el combate.\n\nCon una Iniciativa de 3, los 'Mechs medios actúan cerca del comienzo de una ronda.",
+    "Icon" : ""
+}

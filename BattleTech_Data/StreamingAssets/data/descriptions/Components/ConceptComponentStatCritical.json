@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatCritical",
+    "Name" : "Crítico",
+    "Details" : "La oportunidad de daño crítico determina la posibilidad de que un componente en cierta zona sea dañado o destruido tras un impacto. Los daños críticos solo se aplican cuando todo el Blindaje ha sido eliminado de la zona impactada del blanco.",
+    "Icon" : ""
+}

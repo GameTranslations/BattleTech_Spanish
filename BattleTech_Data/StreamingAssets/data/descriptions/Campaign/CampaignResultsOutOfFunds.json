@@ -1,0 +1,6 @@
+{
+    "Id" : "CampaignResultsOutOfFunds",
+    "Name" : "Sin Fondos",
+    "Details" : "Estás en la bancarrota. Sin suficientes C-Bills para mantener tu nave, tus 'Mechs, y los salarios de tu tripulación, no tienes más elección que vender el resto de tu hardware y desbandar tu compañía. Puede que algún día encuentres el modo de volver con un nuevo inversor…",
+    "Icon" : "uixTxrSpot_CampaignOutcomeOutOfFunds"
+}

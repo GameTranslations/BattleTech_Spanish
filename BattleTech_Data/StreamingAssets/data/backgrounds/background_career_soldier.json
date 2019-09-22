@@ -1,0 +1,60 @@
+{
+    "Description" : {
+        "Id" : "background_career_soldier",
+        "Name" : "Soldado",
+        "Details" : "Por tu cuenta, caíste en la vida de Soldado de la [[DM.BaseDescriptionDefs[LoreAuriganCoalition],Coalición Aurigana]].",
+        "Icon" : "envTxrHrld_startSoldier",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_career_soldier"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 2,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 2,
+    "UIOrdering" : 0,
+    "OptionName" : "Soldado de Coalición Aurigana",
+	"OptionMusicTrigger" : "",
+    "OptionDescription" : "Sin saber tus perspectivas, viajaste a [[DM.BaseDescriptionDefs[LoreCoromodir],Coromodir]], la capital de la [[DM.BaseDescriptionDefs[LoreAuriganCoalition],Coalición Aurigana]], y te alistaste en el ejército de la Coalición. Subiste rápidamente de rango, distinguiéndote como MechWarrior de confianza. La vida como soldado no era glamurosa, pero encajaba contigo.\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery],Puntería]]",
+    "Intro" : "En una misión funesta, te quedaste tras las líneas enemigas y te separaron de tu lanza. Raju estaba cerca de patrulla, y se lanzó a un osado rescate. Tras saber que fue a ti a quien rescató, te llevó a la Guardia Real de la  [[DM.BaseDescriptionDefs[LoreHouseArano],Casa Arano]].\r\n\r\nAsí que te reencuentras con tu viejo mentor, preparando tu ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] para tareas de vigilancia en la coronación de [[DM.BaseDescriptionDefs[LoreKameaArano],Lady Kamea Arano]]…",
+	"BioDescription" : "Sin saber tus perspectivas, viajaste a Coromodir, la capital de la Coalición Aurigana,  y te alistaste en el ejército de la Coalición. Subiste rápidamente de rango, distinguiéndote como MechWarrior de confianza. La vida como soldado no era glamurosa, pero encajaba contigo.\r\n"
+
+}

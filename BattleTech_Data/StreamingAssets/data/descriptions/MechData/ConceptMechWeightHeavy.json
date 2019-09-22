@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWeightHeavy",
+    "Name" : "Clase: Pesado",
+    "Details" : "Los BattleMechs Pesados son máquinas de guerra específicas, que montan una gran cantidad de blindaje y armas respetables. Aunque son generalmente lentos, los 'Mechs pesados forman el núcleo de cualquier misión de combate a gran escala y pueden rendir bien en papeles especializados.\n\nCon una Iniciativa de 2, los 'Mechs pesados actúan casi al final de una ronda.",
+    "Icon" : ""
+}

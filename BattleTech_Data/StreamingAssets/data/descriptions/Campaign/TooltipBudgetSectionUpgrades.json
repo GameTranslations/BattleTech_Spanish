@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipBudgetSectionUpgrades",
+    "Name" : "Mejoras del Argo",
+    "Details" : "Las mejoras del <i>Argo</i> van desde reparar sistemas existentes a reemplazos o instalaciones de sistemas totalmente nuevos, y amenidades. Los ingenieros y techs responsables de estos sistemas trabajan constantemente para mantenerlo todo funcionando bien, y ese trabajo es caro.\n\nNo puedes reducir este gasto; las mejoras son aumentos permanentes en los costes operativos de la <i>Argo</i>.",
+    "Icon" : ""
+}

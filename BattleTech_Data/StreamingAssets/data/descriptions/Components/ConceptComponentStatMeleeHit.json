@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatMeleeHit",
+    "Name" : "Acierto Melé",
+    "Details" : "El Acierto Melé es la precisión promedio de todo ataque Melé, según la dificultad de la acción actual.",
+    "Icon" : ""
+}

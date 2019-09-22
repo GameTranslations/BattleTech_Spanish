@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatDFADamageProtection",
+    "Name" : "Daño MDA (Propio)",
+    "Details" : "Los ataques 'Muerte desde Arriba' provocan inherentemente un daño sustancial al atacante, así como a su objetivo—cada pierna del 'Mech agresor se dañará sin importar si el ataque tiene éxito.",
+    "Icon" : ""
+}

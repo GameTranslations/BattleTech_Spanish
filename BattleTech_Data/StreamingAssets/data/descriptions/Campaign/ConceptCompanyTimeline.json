@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyTimeline",
+    "Name" : "Línea Temporal",
+    "Details" : "Los eventos programados venideros se muestran aquí, en el orden en el que se completarán. Las tareas MechTech pueden reordenarse si necesitas completar antes una en particular o deseas posponerla para más tarde. Las tareas MedTech y otros eventos no pueden reordenarse o cambiarse.",
+    "Icon" : ""
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractDifficulty",
+    "Name" : "Tasa de Dificultad",
+    "Details" : "La Tasa de Dificultad de un contrato indica la mejor estimación de Darius sobre la dificultad promedio del contrato, en base a la info disponible y los detalles dados por el contratista. A mayor Tasa de Dificultad, se recomienda mayor Tonelaje de Descenso.",
+    "Icon" : ""
+}

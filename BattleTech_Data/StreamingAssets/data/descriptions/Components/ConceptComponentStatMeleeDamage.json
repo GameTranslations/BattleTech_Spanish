@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatMeleeDamage",
+    "Name" : "Daño Melé",
+    "Details" : "El Daño Meleé es la cantidad de daño provocada específicamente por ataques Melé, según el diseño inherente del chasis del 'Mech atacante.",
+    "Icon" : ""
+}

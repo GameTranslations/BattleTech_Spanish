@@ -1,0 +1,17 @@
+{
+   "identifier" : "Conversation Charlie",
+   "contents" : [
+      {
+         "words" : "Comandante. El enemigo ha desplegado refuerzos y están en camino. Espere mayor resistencia.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "selectedCastDefId" : "castDef_DariusDefault",
+         "emote" : "Default",
+         "audioName" : ""
+      }
+   ]
+}

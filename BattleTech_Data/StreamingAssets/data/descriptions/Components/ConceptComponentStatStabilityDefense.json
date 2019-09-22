@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatStabilityDefense",
+    "Name" : "Defensa de Estabilidad",
+    "Details" : "La Defensa de Estabilidad ofrece una reducción global a la cantidad de daño recibido a la estabilidad de todo ataque, modificada por factores ambientales.",
+    "Icon" : ""
+}

@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_Reinforced_Small",
+      "Name" : "Edificio Reforzado Pequeño",
+      "Details" : "Edificio reforzado pequeño.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : true,
+   "StructurePoints" : 50,
+   "Opacity" : 100
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatSpotting",
+    "Name" : "Distancia Visual",
+    "Details" : "La Distancia Visual determina la distancia máxima en metros a la que una unidad es capaz de avistar un objetivo desde su ubicación en el campo de batalla. Las unidades avistadas pueden ser atacadas directa o indirectamente por cualquier unidad amiga.",
+    "Icon" : ""
+}

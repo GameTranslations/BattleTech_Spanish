@@ -1,0 +1,6 @@
+{
+    "Id" : "BiomeLunar",
+    "Name" : "Lunar",
+    "Details" : "El bioma Lunar es similar al de la luna de Terra. Solo hay vestigios de atmósfera, haciendo que disipar calor sea extremadamente difícil. Escasos parches de hielo ofrecen ayuda, pero no hay cobertura de ningún tipo aparte de campos de rocas y los bordes de los cráteres. Los campos de radiación pueden ofrecer alguna protección ante el apuntado enemigo, pero las unidades en su interior acumulan niveles peligrosos de calor.",
+    "Icon" : "uixSvgIcon_biome_Vacuum"
+}

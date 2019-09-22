@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipBudgetSectionMechs",
+    "Name" : "Mantenimiento de BattleMech",
+    "Details" : "Mantener un BattleMech listo para el combate es caro, incluso sobre los costes de cualquier reparación específica. Entre el mantenimiento rutinario, reabastecimiento de consumibles como munición y blindaje, y los pequeños retoques para mantener operativas máquinas de guerra con siglos de antigüedad, los costes crecen rápidamente.\n\nPara reducir estos gastos, mueve uno o más de tus 'Mechs listos al almacén. Pero asegúrate de mantener suficientes 'Mechs listos para poder desplegar una lanza completa de combate.",
+    "Icon" : ""
+}

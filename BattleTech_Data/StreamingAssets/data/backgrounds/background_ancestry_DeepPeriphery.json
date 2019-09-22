@@ -1,0 +1,58 @@
+{
+    "Description" : {
+        "Id" : "background_ancestry_DeepPeriphery",
+        "Name" : "Periferia Profunda",
+        "Details" : "Hace décadas, tu familia llegó a la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]] desde la [[DM.BaseDescriptionDefs[LoreDeepPeriphery],Periferia Profunda]].",
+        "Icon" : "uixTxrLogo_NoFaction",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_ancestry_deepPeriphery"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 0,
+	"UIOrdering" : 8,
+	"OptionName" : "La Periferia Profunda",
+	"OptionMusicTrigger" : "deep",
+	"OptionDescription" : "Los MechWarriors que proceden de la [[DM.BaseDescriptionDefs[LoreDeepPeriphery],Periferia Profunda]] son poco comunes, pero es más raro el MechWarrior que admitirá tal origen. \r\n\r\nMás allá de los bordes exteriores de la [[DM.BaseDescriptionDefs[LoreRimwardPeriphery],Periferia]] yacen las profundidades espaciales sin cartografiar, desconocidas para la mayoría de la civilización humana. Poco se sabe de estas regiones, pero no es que estén deshabitadas. La Periferia Profunda está regada de colonias abandonadas y pequeños puestos de avanzadilla, aislados del resto de la humanidad. Tras la caída de la [[DM.BaseDescriptionDefs[LoreStarLeague],Liga Estelar]], el General [[DM.BaseDescriptionDefs[LoreKerensky],Aleksandr Kerensky]] condujo a los remanentes de la [[DM.BaseDescriptionDefs[LoreSLDF],Fuerza de Defensa de la Liga Estelar]] a la Periferia Profunda, desapareciendo de la [[DM.BaseDescriptionDefs[LoreInnerSphere],Esfera Interior]] y de los anales de la historia.",
+	"BioDescription" : "Hace décadas, tu familia llegó a la Extensión Aurigana desde la Periferia Profunda. Los MechWarriors que rinden pleitesía a la Periferia Profunda son poco comunes, pero es más raro el MechWarrior que admitirá tal origen. Más allá de los bordes exteriores de la Periferia yacen las profundidades espaciales sin cartografiar, desconocidas para la mayoría de la civilización humana, regadas de colonias abandonadas y pequeños puestos de avanzadilla.\r\n"
+}

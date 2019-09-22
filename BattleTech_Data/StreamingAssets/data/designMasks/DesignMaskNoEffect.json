@@ -1,0 +1,11 @@
+{
+	"Description" : {
+		"Id" : "DesignMaskNoEffect",
+		"Name" : "SIN EFECTO",
+		"Details" : "Esta máscara de diseño no tiene efecto. Es la máscara de diseño de Bioma por defecto.",
+		"Icon" : null
+	},
+    "hideInUI" : true,
+    "heatSinkMultiplier" : 1.0,
+    "heatPerTurn" : 0
+}

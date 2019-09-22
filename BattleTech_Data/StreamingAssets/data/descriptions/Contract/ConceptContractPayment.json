@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractPayment",
+    "Name" : "Pago del Contrato",
+    "Details" : "El pago de un contrato se basa en la dificultad de la misión y tu reputación con el contratista. Algunos contratos tienen objetivos adicionales que pueden completarse durante la misión para una paga añadida.",
+    "Icon" : ""
+}

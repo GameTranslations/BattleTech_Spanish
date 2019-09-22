@@ -1,0 +1,40 @@
+{
+	"Description" : {
+		"Id" : "TraitDefDFASelfDmgReduction",
+		"Name" : "MDA Más Segura",
+		"Details" : "PASIVO: Al realizar una 'Muerte Desde Arriba', esta unidad recibe 25% menos de daño en las piernas.",
+		"Icon" : "uixSvgIcon_ability_mastertactician"
+	},
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefDFASelfDmgReduction",
+				"Name" : "MDA Más Segura",
+				"Details" : "Al realizar una 'Muerte Desde Arriba', esta unidad recibe 25% menos de daño en las piernas",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+				"statName" : "DFASelfDamage",
+				"operation" : "Float_Multiply",
+				"modValue" : "0.75",
+				"modType" : "System.Single"
+			},
+			"nature" : "Buff"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+    "Description" : {
+        "Id" : "background_ancestry_Taurians",
+        "Name" : "Taurians",
+        "Details" : "Hace décadas, tu familia llegó a la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]] desde el [[DM.Factions[faction_TaurianConcordat],Concordato Tauriano]].",
+        "Icon" : "uixTxrLogo_TaurianConcordat",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_ancestry_taurian"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 0,
+	"UIOrdering" : 6,
+	"OptionName" : "El Concordato Tauriano",
+	"OptionMusicTrigger" : "concordat",
+	"OptionDescription": "Los MechWarriors que proceden del [[DM.Factions[faction_TaurianConcordat],Concordato Tauriano]] tienden a ser obstinados y agresivos. Pueden enfurecerse rápido, no obstante son combatientes hábiles y perspicaces.\r\n\r\nFundado como una monarquía constitucional bajo el liderazgo de la  [[DM.BaseDescriptionDefs[LoreHouseCalderon],Casa Calderón]], el Concordato Tauriano es la potencia militar más fuerte de la [[DM.BaseDescriptionDefs[LoreRimwardPeriphery],Periferia Sur]]. Es también uno de los reinos supervivientes más antiguos de la civilización humana, habiéndose formado hace tiempo, antes de la creación de la [[DM.BaseDescriptionDefs[LoreStarLeague],Liga Estelar]]. Los ciudadanos taurianos disfrutan de libertades extensas garantizadas por la Carta del Concordato, y se enorgullecen de defender esas libertades a través del servicio obligatorio. El Concordato Tauriano ha tenido una larga relación antagónica con la [[DM.BaseDescriptionDefs[LoreInnerSphere],Esfera Interior]], particularmente con los  [[DM.Factions[faction_Davion],Soles Federados]].",
+	"BioDescription" : "Hace décadas, tu familia llegó a la Extensión Aurigana desde el Concordato Tauriano. Los MechWarriors que proceden del Concordato Tauriano tienden a ser obstinados y agresivos. Pueden enfurecerse rápido, no obstante son combatientes hábiles y perspicaces. Fundado como una monarquía constitucional bajo el liderazgo de la Casa Calderón, el Concordato Tauriano es la potencia militar más fuerte de la Periferia Sur.\r\n"
+}

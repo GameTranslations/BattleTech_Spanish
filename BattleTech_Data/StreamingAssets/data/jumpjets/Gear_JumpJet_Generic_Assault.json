@@ -1,0 +1,35 @@
+{
+    "JumpCapacity" : 1,
+    "MinTonnage" : 90,
+    "MaxTonnage" : 100,
+    "Description" : {
+        "Cost" : 70000,
+        "Rarity" : 3,
+        "Purchasable" : true,
+        "Manufacturer" : "Genérico",
+        "Model" : "Asalto",
+        "UIName" : "Jet de Salto (A)",
+        "Id" : "Gear_JumpJet_Generic_Assault",
+        "Name" : "Jet de Salto de Asalto (A)",
+        "Details" : "Los Jets de Salto canalizan aire supercaliente para propulsar 'Mechs sobre obstáculos de un modo controlado. Adicionalmente, también pueden usarse para realizar el temido ataque 'Muerte desde Arriba'. Los Jets de Salto de Asalto están diseñados especialmente para usarse en 'Mechs de 90 toneladas o más.",
+        "Icon" : "uixSvgIcon_action_jump"
+    },
+    "BonusValueA" : null,
+    "BonusValueB" : null,
+    "ComponentType" : "JumpJet",
+    "ComponentSubType" : "Functionality",
+    "PrefabIdentifier" : "JumpJet",
+    "BattleValue" : 0,
+    "InventorySize" : 1,
+    "Tonnage" : 2,
+    "AllowedLocations" : "Torso, Legs",
+    "DisallowedLocations" : "Head, Arms",
+    "CriticalComponent" : false,
+    "statusEffects" : null,
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

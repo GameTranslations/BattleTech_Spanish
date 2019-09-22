@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_DavionDefaultCommander",
+    "internalName" : "DavionDefaultCommander",
+    "firstName" : "Fuerzas Armadas de los Soles Federados",
+    "lastName" : "Oficial",
+    "callsign" : "",
+    "rank" : "Capitán",
+    "gender" : "NonBinary",
+    "faction" : "Davion",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "emblems/factions/uixTxrLogo_Davion.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

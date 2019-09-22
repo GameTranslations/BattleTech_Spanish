@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatAccuracy",
+    "Name" : "Precisión",
+    "Details" : "La precisión reduce la penalización total a acertar de un ataque basada en su dificultad de tiro.",
+    "Icon" : ""
+}

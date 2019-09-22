@@ -1,0 +1,6 @@
+{
+    "Id" : "BiomePolar",
+    "Name" : "Polar",
+    "Details" : "El bioma Polar está marcado de láminas de hielo, gruesos campos de nieve y vegetación boreal. Rocas serradas esculpidas por glaciares sobresalen de la nieve, a menudo formado vastas cordilleras afiladas. El calor se disipa casi al instante en este bioma, pero bolsas ocasionales de actividad geotérmica pueden reducir la eficiencia térmica de cualquier 'Mech que esté sobre ellas.",
+    "Icon" : "uixSvgIcon_biome_Polar"
+}

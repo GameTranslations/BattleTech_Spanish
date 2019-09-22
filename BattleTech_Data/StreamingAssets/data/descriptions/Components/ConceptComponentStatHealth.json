@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHealth",
+    "Name" : "Salud del MechWarrior",
+    "Details" : "Los MechWarriors solo pueden aguantar el ser zarandeados en sus carlingas durante un tiempo, antes de verse incapacitados en el campo de batalla. Un valor de salud máxima del MechWarrior muestra cuántos golpes de carlinga, derribos, u otros eventos catastróficos dañinos puede recibir su 'Mech antes de caer K.O.—y posiblemente muerto.",
+    "Icon" : ""
+}

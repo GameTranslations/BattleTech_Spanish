@@ -1,0 +1,14 @@
+{
+	"Description" : {
+		"Id" : "AbilityDefG5",
+		"Name" : "MULTI-OBJETIVO",
+		"Details" : "ACCIÓN: Dispara las armas hasta contra tres blancos distintos dentro del arco de tiro de este 'Mech.",
+		"Icon" : "uixSvgIcon_action_multitarget"
+	},
+    "DisplayParams" : "ShowInMWTRay",
+	"ReqSkill" : "Gunnery",
+	"ReqSkillLevel" : 5,
+	"ActivationTime" : "ConsumedByFiring",
+    "Targeting" : "MultiFire",
+	"IsPrimaryAbility" : true
+}

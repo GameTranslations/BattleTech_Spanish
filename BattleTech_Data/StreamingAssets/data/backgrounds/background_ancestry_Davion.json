@@ -1,0 +1,58 @@
+{
+    "Description" : {
+        "Id" : "background_ancestry_Davion",
+        "Name" : "Davion",
+        "Details" : "Hace décadas, tu familia llegó a la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]] desde los [[DM.Factions[faction_Davion],Soles Federados]].",
+        "Icon" : "uixTxrLogo_Davion",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_ancestry_davion"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 0,
+	"UIOrdering" : 2,
+	"OptionName" : "Los Soles Federados (Davion)",
+	"OptionMusicTrigger" : "davion",
+	"OptionDescription" : "Los MechWarriors que proceden de los [[DM.Factions[faction_Davion],Soles Federados]] tienden a poseer habilidades más afinadas y mejor equipo que sus homólogos de otras regiones del espacio. A menudo se consideran a sí mismos como virtuosos guerreros y campeones de la libertad - siendo a veces su defecto.\r\n\r\nAunque casi extintos por el [[DM.Factions[faction_Kurita],Combinado Draconis]] en la [[DM.BaseDescriptionDefs[LoreFirstSuccessionWar],Primera Guerra de Sucesión]], los Soles Federados - una monarquía constitutional gobernada por la renombrada [[DM.BaseDescriptionDefs[LoreHouseDavion],Casa Davion]] - se ha convertido posiblemente en el más poderoso de los cinco grandes [[DM.BaseDescriptionDefs[LoreSuccessorState],Estados Sucesores]]. A través de hábiles campañas militares y una sutil diplomacia, la Casa Davion ha aumentado significativamente el número de sistemas estelares bajo su control en los últimos dos siglos.",
+	"BioDescription" : "Hace décadas, tu familia llegó a la Extensión Aurigana desde los Soles Federados. Los MechWarriors que rinden pleitesía a los Soles Federados tienden a poseer habilidades más afinadas y mejor equipo que sus homólogos de otras regiones del espacio. A menudo se consideran a sí mismos como virtuosos guerreros y campeones de la libertad - siendo a veces su defecto.\r\n"
+}

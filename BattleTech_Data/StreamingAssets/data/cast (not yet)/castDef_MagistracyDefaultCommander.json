@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_MagistracyDefaultCommander",
+    "internalName" : "MagistracyDefaultCommander",
+    "firstName" : "Magistracy Armed Forces",
+    "lastName" : "Officer",
+    "callsign" : "",
+    "rank" : "Commander",
+    "gender" : "NonBinary",
+    "faction" : "MagistracyOfCanopus",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "emblems/factions/uixTxrLogo_MagistracyOfCanopus.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

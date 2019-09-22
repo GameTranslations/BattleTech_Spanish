@@ -1,0 +1,18 @@
+{
+   "Description" : {
+      "Id" : "Ammunition_Flamer",
+      "Name" : "Mun. Lanzallamas",
+      "Details" : "Munición Lanzallamas. ¡NO DEBERÍA PODERSE COMPRAR NI ESTAR DISPONIBLE!!! Los lanzallamas solo deberían tener mun. interna.",
+      "Icon" : null,
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Type" : "Normal",
+   "Category" : "Flamer",
+   "HeatGenerated" : 0,
+   "HeatGeneratedModifier" : 1,
+   "ArmorDamageModifier" : 1,
+   "ISDamageModifier" : 1,
+   "CriticalDamageModifier" : 1
+}

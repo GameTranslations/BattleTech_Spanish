@@ -1,0 +1,13 @@
+{
+	"Description" : {
+		"Id" : "TraitDefWeaponHit9",
+		"Name" : "",
+		"Details" : "",
+		"Icon" : ""
+	},
+	"Type" : "WeaponHit",
+	"ShortDesc" : "+ 22.5% al Acierto Base de Arma",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" : []
+}

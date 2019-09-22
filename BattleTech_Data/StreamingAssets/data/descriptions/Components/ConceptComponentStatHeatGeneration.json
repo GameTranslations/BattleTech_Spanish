@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHeatGeneration",
+    "Name" : "Generación Térmica",
+    "Details" : "Las armas generan diferentes cantidades de Calor, según su clase y su tipo. Pueden montarse Intercambiadores Térmicos Especializados para reducir porcentualmente el Calor promedio que generan las armas equipadas.",
+    "Icon" : ""
+}

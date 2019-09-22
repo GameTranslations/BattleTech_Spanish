@@ -1,0 +1,25 @@
+{
+   "identifier" : "TestConvo2",
+   "contents" : [
+      {
+         "words" : "Esta es una conversación desincronizada",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 0,
+            "b" : 0,
+            "a" : 1
+         },
+         "audioName" : "audio"
+      },
+	  {
+         "words" : "Esta es la segunda parte de una conversación desincronizada",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 0,
+            "b" : 0,
+            "a" : 1
+         },
+         "audioName" : "audio"
+      }
+   ]
+}

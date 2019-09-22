@@ -1,0 +1,137 @@
+{
+    "DissipationCapacity" : 0,
+    "Description" : {
+        "Cost" : 470000,
+        "Rarity" : 5,
+        "Purchasable" : true,
+        "Manufacturer" : "Genérico",
+        "Model" : "Banco Voluminoso",
+        "UIName" : "Banco Térmico + +",
+        "Id" : "Gear_HeatSink_Generic_Bulk-Bank",
+        "Name" : "Banco Térmico Voluminoso",
+        "Details" : "Los Bancos Térmicos se instalan para permitir un mayor acopio de energía térmica, ampliando el umbral en el cual se provocan daños internos por el aumento excesivo de calor y mejorando así la capacidad de disparo constante. ",
+        "Icon" : "uixSvgIcon_equipment_HeatBank"
+    },
+    "BonusValueA" : "+ 30 Máx. Calor",
+    "BonusValueB" : "+ 15 Umbral Recalentamiento",
+    "ComponentType" : "HeatSink",
+    "ComponentSubType" : "Heatsink",
+    "PrefabIdentifier" : "",
+    "BattleValue" : 0,
+    "InventorySize" : 6,
+    "Tonnage" : 1,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+        {
+            "durationData" : {
+                "duration" : -1,
+                "ticksOnActivations" : false,
+                "useActivationsOfTarget" : false,
+                "ticksOnEndOfRound" : false,
+                "ticksOnMovements" : false,
+                "stackLimit" : -1,
+                "clearedWhenAttacked" : false
+            },
+            "targetingData" : {
+                "effectTriggerType" : "Passive",
+                "triggerLimit" : 0,
+                "extendDurationOnTrigger" : 0,
+                "specialRules" : "NotSet",
+                "effectTargetType" : "Creator",
+                "range" : 0,
+                "forcePathRebuild" : false,
+                "forceVisRebuild" : false,
+                "showInTargetPreview" : false,
+                "showInStatusPanel" : true
+            },
+            "effectType" : "StatisticEffect",
+            "Description" : {
+                "Id" : "StatusEffect-Heat_Max-T3",
+                "Name" : "MÁX. CALOR AUMENTADO",
+                "Details" : "Aumentado el máximo calor permitido en [AMT].",
+                "Icon" : "uixSvgIcon_equipment_HeatBank"
+            },
+            "nature" : "Buff",
+            "statisticData" : {
+                "appliesEachTick" : false,
+                "effectsPersistAfterDestruction" : false,
+                "statName" : "MaxHeat",
+                "operation" : "Int_Add",
+                "modValue" : "30",
+                "modType" : "System.Int32",
+                "additionalRules" : "NotSet",
+                "targetCollection" : "NotSet",
+                "targetWeaponCategory" : "NotSet",
+                "targetWeaponType" : "NotSet",
+                "targetAmmoCategory" : "NotSet",
+                "targetWeaponSubType" : "NotSet"
+            },
+            "tagData" : null,
+            "floatieData" : null,
+            "actorBurningData" : null,
+            "vfxData" : null,
+            "instantModData" : null,
+            "poorlyMaintainedEffectData" : null
+        },
+        {
+            "durationData" : {
+                "duration" : -1,
+                "ticksOnActivations" : false,
+                "useActivationsOfTarget" : false,
+                "ticksOnEndOfRound" : false,
+                "ticksOnMovements" : false,
+                "stackLimit" : -1,
+                "clearedWhenAttacked" : false
+            },
+            "targetingData" : {
+                "effectTriggerType" : "Passive",
+                "triggerLimit" : 0,
+                "extendDurationOnTrigger" : 0,
+                "specialRules" : "NotSet",
+                "effectTargetType" : "Creator",
+                "range" : 0,
+                "forcePathRebuild" : false,
+                "forceVisRebuild" : false,
+                "showInTargetPreview" : false,
+                "showInStatusPanel" : true
+            },
+            "effectType" : "StatisticEffect",
+            "Description" : {
+                "Id" : "StatusEffect-Overheat_Threshold-T3",
+                "Name" : "Nivel de Recalentamiento Aumentado",
+                "Details" : "Umbral de recalentamiento aumentado en 15",
+                "Icon" : "uixSvgIcon_equipment_HeatBank"
+            },
+            "nature" : "Buff",
+            "statisticData" : {
+                "appliesEachTick" : false,
+                "effectsPersistAfterDestruction" : false,
+                "statName" : "OverheatLevel",
+                "operation" : "Int_Add",
+                "modValue" : "15",
+                "modType" : "System.Int32",
+                "additionalRules" : "NotSet",
+                "targetCollection" : "NotSet",
+                "targetWeaponCategory" : "NotSet",
+                "targetWeaponType" : "NotSet",
+                "targetAmmoCategory" : "NotSet",
+                "targetWeaponSubType" : "NotSet"
+            },
+            "tagData" : null,
+            "floatieData" : null,
+            "actorBurningData" : null,
+            "vfxData" : null,
+            "instantModData" : null,
+            "poorlyMaintainedEffectData" : null
+        }
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_variant",
+            "component_type_variant3"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyExpenseLevel",
+    "Name" : "Nivel de Gastos",
+    "Details" : "Este es el nivel actual de gastos por los costes de operación de la compañía, yendo de espartano a extravagante. El nivel específico determina cuánto se extenderán los fondos de tu compañía, y si afecta la Moral positiva o negativamente.",
+    "Icon" : ""
+}

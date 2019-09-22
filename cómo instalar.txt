@@ -1,0 +1,75 @@
+﻿Gracias por probar mi traducción española de BATTLETECH, v.0.06b
+
+Veo que ya han creado un cargador de mods, BattleTech Mod Loader, y ModTek:
+https://github.com/Mpstark/ModTek/wiki/The-Drop-Dead-Simple-Guide-to-Installing-BTML-&-ModTek-&-ModTek-mods
+
+Tendré que ver en un futuro cómo usarlo e implementarlo.
+
+Por ahora, para instalar la traducción, sigue estos pasos:
+
+1- Entra en el directorio BATTLETECH, donde tienes instalado el juego.
+
+(Haz copia de las carpetas originales por si el juego no funciona, y así vuelves a recuperar los archivos iniciales...)
+
+2- Extrae el contenido del archivo .rar en el directorio BATTLETECH. Sobreescribe los archivos.
+
+Y a disfrutar...
+
+Contenido del .rar:
+"BattleTech_Data"
+ └"Streaming Assets"
+   └"Data"
+   | └"abilities" (16 .json)
+   | | └"Traits" (41 .json)
+   | |
+   | └"ammunition" (10 .json)
+   | └"ammunitionBox" (10 .json)
+   | └"backgrounds" (20 .json)
+   | └"buildings" (31 .json)
+   | └"chassis" (62 .json)
+   | └"constants" (2 .json)
+   | └"contracts"
+   | | └"Ambushconvoy" (1 de muchos .json, en proceso)
+   | | └"Simplebattle" (1 de muchos .json, en proceso)
+   | |
+   | └"contractsDeprecated"
+   | | └"rescue" (3 .json)
+   | | └"rescuedouble" (2 .json)
+   | | └"rescuesingle" (2 .json)
+   | | └"simplebattle" (11 .json, en proceso)
+   | |
+   | └"conversations" (16 .json)
+   | | └"dialogue_buckets"
+   | | | └"ambushconvoy" (6 .json)
+   | | | └"assassinate" (9 .json)
+   | | | └"capturebase" (6 .json)
+   | | | └"captureescort" (6 .json)
+   | | | └"defendbase" (11 .json)
+   | | | └"destroybase" (6 .json)
+   | | | └"rescue" (12 .json)
+   | | | └"universal" (15 .json)
+   | | └"mapStory_storyEncounter1b" (1 .json)
+   | |
+   | └"descriptions"
+   | | └"Biome" (8 .json)
+   | | └"Campaign" (45 .json)
+   | | └"Components" (23 .json)
+   | | └"Contract" (21 .json)
+   | | └"MechData" (23 .json)
+   | | └"Reputation" (8 .json)
+   | |
+   | └"desingMasks" (29 .json)
+   | └"events" (14 de 141 .json)
+   | └"heatsinks" (8 .json)
+   | └"jumpjets" (3 .json)
+   | └"mech" (66 .json)
+   | └"simGameConstants" (1 .json)
+   | └"weapon" (150 .json)
+   |
+   └"GameTips" (1 .txt)
+   └"Video"
+     └"Subtitles" (11 .srt, 11 .ssa ¡opening subtitulado!)
+
+CONTINUARÁ...
+
+Tonxabar

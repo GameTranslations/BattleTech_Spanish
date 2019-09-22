@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_Military_Small",
+      "Name" : "Edificio Militar Pequeño",
+      "Details" : "Edificio militar pequeño.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : true,
+   "StructurePoints" : 100,
+   "Opacity" : 100
+}

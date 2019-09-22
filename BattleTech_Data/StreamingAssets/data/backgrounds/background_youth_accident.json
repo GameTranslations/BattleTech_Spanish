@@ -1,0 +1,59 @@
+{
+    "Description" : {
+        "Id" : "background_youth_accident",
+        "Name" : "Familia Perdida En Accidente",
+        "Details" : "El día de tu decimosexto cumpleaños, el resto de tu familia murió en un accidente.",
+        "Icon" : "uixTxrLogo_backgroundTragedy",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_family_noble",
+				"commander_youth_accident"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 0,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 0,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 1,
+    "UIOrdering" : 3,
+    "OptionName" : "Tu familia murió en un accidente.",
+	"OptionMusicTrigger" : "",
+    "OptionDescription" : "El resto de tu familia murió en un horrible accidente de  [[DM.BaseDescriptionDefs[LoreJumpShip],Nave de Salto]], tras lo cual descubriste que no habían dejado nada más que montones de deudas.\r\n\r\nTras venderlo todo para saldar las deudas, te vas por tu cuenta, con solo el ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] familiar que dejaron a tu nombre.\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorPiloting],Pilotaje]], +1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts],Coraje]]",
+	"BioDescription" : "El resto de tu familia murió en un horrible accidente de Nave de Salto, tras lo cual descubriste que no habían dejado nada más que montones de deudas. Tras venderlo todo para saldar las deudas, te vas por tu cuenta, con solo el ancestral Blackjack familiar que dejaron a tu nombre.\r\n"
+}

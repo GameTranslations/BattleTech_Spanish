@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_Military_Superheavy",
+      "Name" : "Edificio Militar Superpesado",
+      "Details" : "Edificio militar superpesado.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : true,
+   "StructurePoints" : 250,
+   "Opacity" : 100
+}

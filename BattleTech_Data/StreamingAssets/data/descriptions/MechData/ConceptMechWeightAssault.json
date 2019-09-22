@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWeightAssault",
+    "Name" : "Clase: Asalto",
+    "Details" : "Los BattleMechs de Asalto son los campeones del campo de batalla—paredes andantes de blindaje y armas. Normalmente la unidad más lenta en el campo, los 'Mechs de asalto pueden decimar a cualquier oponente, pero tienden a necesitar apoyo de unidades más maniobrables.\n\nCon una Iniciativa de 1, los 'Mechs de asalto actúan al final de una ronda.",
+    "Icon" : ""
+}

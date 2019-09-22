@@ -1,0 +1,25 @@
+{
+   "identifier" : "TestConvo",
+   "contents" : [
+      {
+         "words" : "Esto es una conversación de interrupción",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : "audio"
+      },
+	  {
+         "words" : "Esta es la segunda parte",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : "audio"
+      }
+   ]
+}

@@ -1,0 +1,15 @@
+{
+   "identifier" : "CaptureEscortAndDefend_TurretWarning",
+   "contents" : [
+      {
+         "words" : "Comandante, le aviso: Se detectaron torretas enemigas en la zona. Tenga cuidado con ataques de largo alcance.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

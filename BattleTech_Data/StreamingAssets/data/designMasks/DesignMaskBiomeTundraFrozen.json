@@ -1,0 +1,12 @@
+{
+	"Description" : {
+		"Id" : "DesignMaskBiomeTundraFrozen",
+		"Name" : "BIOMA TUNDRA",
+		"Details" : "Los biomas Tundra aumentan la capacidad de reducción térmica de una unidad en un 10%.",
+		"Icon" : "uixSvgIcon_biome_Cooled"
+	},
+    "heatSinkMultiplier" : 1.1,
+    "heatPerTurn" : 0,
+	"audioSwitchSurfaceType" : "dirt",
+	"audioSwitchRainingSurfaceType" : "mud"
+}

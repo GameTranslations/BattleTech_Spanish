@@ -1,0 +1,15 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_SolidIce",
+      "Name" : "Hielo Sólido",
+      "Details" : "Un cuerpo de agua sólidamente congelado.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : false,
+   "StructurePoints" : 0,
+   "Opacity" : 100,
+   "TerrainMask" : "Water"
+}

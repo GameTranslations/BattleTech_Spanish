@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractSalvage",
+    "Name" : "Salvamento del Contrato",
+    "Details" : "El primer valor, salvamento prioritario, es el número de objetos que puedes elegir de todos el botín disponible en el campo de batalla. El segundo valor es el número total de objetos que recibirás, siendo el resto elegido aleatoriamente. Ten en cuenta que si destruyes equipos y chásis de 'Mechs enemigos, lo destruido no estará disponible como salvamento.",
+    "Icon" : ""
+}

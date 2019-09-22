@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechHardpointBallistic",
+    "Name" : "Anclajes Balísticos",
+    "Details" : "Un 'Mech puede montar un número limitado de armas de cada tipo, representado por sus 'anclajes fijos'. Los anclajes balísticos pueden montar sistemas de armas Autocañón, incluyendo el AC/2, AC/5, AC/10, y AC/20.",
+    "Icon" : "uixSvgIcon_weapon_Ballistic"
+}

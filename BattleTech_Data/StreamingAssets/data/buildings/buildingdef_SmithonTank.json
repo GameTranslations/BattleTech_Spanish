@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_SmithonTank",
+      "Name" : "Edificio Militar Superpesado",
+      "Details" : "Edificio militar superpesado.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : true,
+   "StructurePoints" : 350,
+   "Opacity" : 100
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHitDefense",
+    "Name" : "Defensa contra Aciertos",
+    "Details" : "La Defensa contra Aciertos da un aumento global a la dificultad de todos los ataques a recibir, según las circunstancias actuales del disparo.",
+    "Icon" : ""
+}

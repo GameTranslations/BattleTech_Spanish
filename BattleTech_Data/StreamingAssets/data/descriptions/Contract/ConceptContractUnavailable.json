@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractUnavailable",
+    "Name" : "No disponible",
+    "Details" : "Este contrato no está disponible porque tu reputación con esta facción o en el Boletín Mercenario es muy baja.",
+    "Icon" : ""
+}

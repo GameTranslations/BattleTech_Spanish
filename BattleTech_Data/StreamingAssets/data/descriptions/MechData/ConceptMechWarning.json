@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWarning",
+    "Name" : "Aviso de Rendimiento",
+    "Details" : "Este 'Mech tiene uno o más problemas en su configuración, tales como munición faltante, estructura interna dañada, o tonelaje sin usar.\n\nRepón este 'Mech en la Bahía de Mechs para revisar cualquier problema.",
+    "Icon" : ""
+}

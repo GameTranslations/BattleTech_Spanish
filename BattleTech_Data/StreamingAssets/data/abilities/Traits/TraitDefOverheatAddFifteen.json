@@ -1,0 +1,42 @@
+{
+	"Description" : {
+		"Id" : "TraitDefOverheatAddFifteen",
+		"Name" : "Mayor Nivel de Sobrecalentamiento",
+		"Details" : "PASIVO: Los 'Mechs pilotados por este MechWarrior pueden ganar 15 puntos más de calor antes de Sobrecalentarse.",
+		"Icon" : "uixSvgIcon_ability_mastertactician"
+	},
+	"Type" : "OverheatThreshold",
+	"ShortDesc" : "+ 15 Lím. Calentamiento",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefOverheatAddTen",
+				"Name" : "Mayor Nivel de Sobrecalentamiento",
+				"Details" : "Umbral de sobrecalentamiento aumentado en 15",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+				"statName" : "OverheatLevel",
+				"operation" : "Int_Add",
+				"modValue" : "15",
+				"modType" : "System.Int32"
+			},
+			"nature" : "Buff"
+		}
+	]
+}

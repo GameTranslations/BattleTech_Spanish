@@ -1,0 +1,24 @@
+{
+    "identifier" : "Bkt_AutoEscape_3",
+    "contents" : [
+        {
+            "words" : "¡Bien hecho! Logró eliminar la OpsFor. Puedo extraerles ahora, no hay necesidad de moverse a la ZA planeada.",
+            "wordsColor" : {
+                "r" : 1,
+                "g" : 1,
+                "b" : 1,
+                "a" : 1
+            },
+            "selectedCastDefId" : "castDef_SumireDefault",
+            "emote" : "Default",
+            "dialogueOrigin" : "pilot",
+            "audioEventEntryIndex" : 0,
+            "audioEventEntryText" : "NONE",
+            "conversationIdx" : 0,
+            "cameraFocus" : {
+                "EncounterObjectGuid" : ""
+            },
+            "revealRadius" : -1
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyMorale",
+    "Name" : "Moral de la Compañía",
+    "Details" : "La moral promedio de tu tripulación y los MechWarriors, de un máximo posible de 50 puntos. La Moral puede elevarse con espléndidos gastos en salarios y lujos, así como construyendo mejoras recreativas en la Nave de Descenso. Ten cuidado: si tu moral es muy baja, puedes sufrir eventos negativos.\r \n \r \nMayor Moral también genera más <color=#F79B26>Ánimo</color> por turno en combate, que puedes usar para activar ciertas habilidades especiales.",
+    "Icon" : ""
+}

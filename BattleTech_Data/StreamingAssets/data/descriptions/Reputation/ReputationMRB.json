@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationMRB",
+    "Name" : "Clasificación en Lista de Mercenarios",
+    "Details" : "Tu clasificación en la Lista de Mercenarios indica lo efectiva y fiable que es tu compañía. Una clasificación LM alta te granjeará el respeto de compañeros mercenarios y MechWarriors de contrato.",
+    "Icon" : "uixTxrLogo_MercenaryReviewBoard"
+}

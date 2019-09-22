@@ -1,0 +1,18 @@
+{
+   "Description" : {
+      "Id" : "Ammunition_AC2",
+      "Name" : "Mun. AC/2",
+      "Details" : "Munición de pequeño calibre diseñada para disparos de largo alcance en un AC/2.",
+      "Icon" : null,
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Type" : "Normal",
+   "Category" : "AC2",
+   "HeatGenerated" : 0,
+   "HeatGeneratedModifier" : 1,
+   "ArmorDamageModifier" : 1,
+   "ISDamageModifier" : 1,
+   "CriticalDamageModifier" : 1
+}

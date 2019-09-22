@@ -1,0 +1,6 @@
+{
+    "Id" : "ContractTypeDefendBase",
+    "Name" : "Defender Base",
+    "Details" : "Tu objetivo es defender una instalación ante el ataque enemigo y evitar la destrucción de edificios específicos durante un número de rondas. Aquí es más importante tener suficiente munición y blindaje que velocidad y movilidad.",
+    "Icon" : ""
+}

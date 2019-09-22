@@ -1,0 +1,43 @@
+{
+	"Description" : {
+		"Id" : "AbilityDefP5",
+		"Name" : "MOVIMIENTO EVASIVO",
+		"Details" : "PASIVO: Esta unidad genera una carga extra de EVASIÓN con acciones de movimiento (hasta su máximo).",
+		"Icon" : "uixSvgIcon_action_evasivemove"
+	},
+    "DisplayParams" : "ShowInMWTRay",
+	"ReqSkill" : "Piloting",
+	"ReqSkillLevel" : 5,
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "AbilityDefP5",
+				"Name" : "MOVIMIENTO EVASIVO",
+				"Details" : "PASIVO: Esta unidad genera una carga extra de EVASIÓN con acciones de movimiento (hasta su máximo).",
+				"Icon" : "uixSvgIcon_action_evasivemove"
+			},
+			"statisticData" : 
+			{
+				"statName" : "EvasivePipsGainedAdditional",
+				"operation" : "Int_Add",
+				"modValue" : "1",
+				"modType" : "System.Int32"
+			},
+			"nature" : "Buff"
+		}
+	],
+	"IsPrimaryAbility" : true
+}

@@ -1,0 +1,17 @@
+{
+   "identifier" : "DefaultMissionEnd_Failure",
+   "contents" : [
+      {
+         "words" : "Bueno. Acaba de pasar. (POR HACER - Finalizar fallo por defecto)",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "selectedCastDefId" : "castDef_None",
+         "emote" : "Default",
+         "audioName" : ""
+      }
+   ]
+}

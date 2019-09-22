@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyFinances",
+    "Name" : "Finanzas de la Compañía",
+    "Details" : "Tus costes de operación, a pagar en cada Informe Financiero. Los puntos indican el número de meses que puedes mantenerte a flote.\n\nSi tus fondos llegan a cero, tu compañía falla totalmente y cesa de operar.",
+    "Icon" : ""
+}

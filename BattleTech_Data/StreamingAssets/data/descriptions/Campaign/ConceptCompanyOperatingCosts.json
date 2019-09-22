@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyOperatingCosts",
+    "Name" : "Costes de Operación",
+    "Details" : "Las Naves de Descenso requieren mantenimiento constante, combustible y suministros para mantenerse operativas. Además, cada 'Mech listo para el combate incurre en un coste de mantenimiento constante; las mejoras a los sistemas internos de la Nave de Descenso también aumentarán los costes operativos promedio. Para reducir los costes de operación, mueve 'Mechs al almacén.",
+    "Icon" : ""
+}

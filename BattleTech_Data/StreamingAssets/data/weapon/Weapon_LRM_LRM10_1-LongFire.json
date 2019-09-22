@@ -1,0 +1,65 @@
+{
+    "Category" : "Missile",
+    "Type" : "LRM",
+    "WeaponSubType" : "LRM10",
+    "MinRange" : 180,
+    "MaxRange" : 630,
+    "RangeSplit" : [
+        420,
+        420,
+        630
+    ],
+    "AmmoCategory" : "LRM",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 10,
+    "Damage" : 4,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 0,
+    "AccuracyModifier" : 0,
+    "CriticalChanceMultiplier" : 1.25,
+    "AOECapable" : false,
+    "IndirectFireCapable" : true,
+    "RefireModifier" : 0,
+    "ShotsWhenFired" : 10,
+    "ProjectilesPerShot" : 1,
+    "AttackRecoil" : 1,
+    "Instability" : 2,
+    "WeaponEffectID" : "WeaponEffect-Weapon_LRM10",
+    "Description" : {
+        "Cost" : 160000,
+        "Rarity" : 1,
+        "Purchasable" : true,
+        "Manufacturer" : "LongFire",
+        "Model" : "Lanza-Misiles de Alcance Largo",
+        "UIName" : "MAL10 +",
+        "Id" : "Weapon_LRM_LRM10_1-LongFire",
+        "Name" : "MAL10 +",
+        "Details" : "El bastidor de Misiles de Alcance Largo MAL10 ocupa un papel de fuego de apoyo cuando se monta en la mayoría de unidades, con un daño bastante bajo equilibrado con un bajo consumo de munición y calor. Como todos los MAL, los MAL10s son capaces de disparar indirectamente sobre obstáculos y terreno al beneficiarse de una unidad ojeadora.",
+        "Icon" : "uixSvgIcon_weapon_Missile"
+    },
+    "BonusValueA" : "+ 25% Crít.",
+    "BonusValueB" : "",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "lrm10",
+    "BattleValue" : 0,
+    "InventorySize" : 2,
+    "Tonnage" : 5,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+        
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_variant",
+            "component_type_variant1",
+            "range_extreme"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

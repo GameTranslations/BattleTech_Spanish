@@ -1,0 +1,60 @@
+{
+    "Description" : {
+        "Id" : "background_career_freelancer",
+        "Name" : "Independiente",
+        "Details" : "Por tu cuenta, caíste en la vida de un Fronterizo Independiente.",
+        "Icon" : "envTxrHrld_startFreelancer",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_career_freelancer"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 2,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 2,
+	"UIOrdering" : 4,
+	"OptionName" : "Fronterizo Independiente",
+	"OptionMusicTrigger" : "",
+	"OptionDescription": "Vagaste por la [[DM.BaseDescriptionDefs[LoreRimwardPeriphery],Periferia Sur]] como independiente, firmando cualquier contrato extraño que hallaras como MechWarrior mercenario. Fue una vida solitaria - pero mientras te acostumbrabas al estilo itinerante, viste que eras capaz de ganar buen dinero ayudando a la gente de la frontera.\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics],Tácticas]]",
+    "Intro": "Mientras realizabas una patrulla rutinaria para un gobierno local en las afueras de la  [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]], caíste en una emboscada de piratas y te creyeron cadáver. Raju estaba visitando la capital y recibió tu llamada de auxilio. Tras rescatarte te ofreció un trabajo en la Guardia Real de la [[DM.BaseDescriptionDefs[LoreHouseArano],Casa Arano]].\r\n\r\nAsí que te reencuentras con tu viejo mentor, preparando tu ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] para tareas de vigilancia en la coronación de [[DM.BaseDescriptionDefs[LoreKameaArano],Lady Kamea Arano]]…",
+	"BioDescription" : "Deseando desesperadamente escapar de tu pasado, vagaste por la Periferia Sur como independiente, firmando cualquier contrato extraño que hallaras como MechWarrior mercenario. Fue una vida solitaria - pero mientras te acostumbrabas al estilo itinerante, viste que eras capaz de ganar buen dinero ayudando a la gente de la frontera.\r\n"
+
+}

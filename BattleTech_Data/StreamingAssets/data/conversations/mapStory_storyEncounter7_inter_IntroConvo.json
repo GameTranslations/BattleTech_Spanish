@@ -1,0 +1,25 @@
+{
+   "identifier" : "mapStory_storyEncounter7_inter_IntroConvo",
+   "contents" : [
+      {
+         "words" : "El transporte del Lord Regent está en camino hacia el búnker, moviéndose a buen paso. Su escolta está configurada para correr, así que debería haber poca resistencia.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "He marcado una zona de emboscada en su mapa. Muévase rápido, y buena caza.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

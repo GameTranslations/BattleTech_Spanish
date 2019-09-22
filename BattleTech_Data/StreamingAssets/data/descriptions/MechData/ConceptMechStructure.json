@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechStructure",
+    "Name" : "Estructura",
+    "Details" : "La estructura interna de un 'Mech es el armazón que soporta el blindaje, el equipo y las armas. Cuando la estructura en una zona se agota, esa zona se destruye. La estructura proviene del tonelaje promedio del 'Mech y no puede modificarse.",
+    "Icon" : ""
+}

@@ -1,0 +1,42 @@
+{
+	"Description" : {
+		"Id" : "TraitDefRefireReduceTwo",
+		"Name" : "Retroceso Reducido",
+		"Details" : "PASIVO: Los 'Mechs pilotados por este MechWarrior tienen sus penalizaciones de retroceso Balístico reducidas en 2.",
+		"Icon" : "uixSvgIcon_ability_mastertactician"
+	},
+	"Type" : "RefireReduction",
+	"ShortDesc" : "-2 Penalización a Retroceso",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" : 
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "TraitDefIndirectReduceOne",
+				"Name" : "Retroceso Reducido",
+				"Details" : "Penalizaciones de retroceso Balístico reducidas en 2",
+				"Icon" : "uixSvgIcon_ability_mastertactician"
+			},
+			"statisticData" : 
+			{
+				"targetCollection" : "Weapon",
+				"statName" : "RefireModifier",
+				"operation" : "Int_Add",
+				"modValue" : "-1",
+				"modType" : "System.Int32"
+			}
+		}
+	]
+}

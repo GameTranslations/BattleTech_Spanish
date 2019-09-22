@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHeatsinking",
+    "Name" : "Disipación Térmica",
+    "Details" : "La capacidad de Disipación Térmica del 'Mech determina la cantidad de puntos de Calor que se disipan al final de cada acción del 'Mech. Esto puede modificarse positiva o negativamente por factores ambientales.",
+    "Icon" : ""
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechHardpointJumpjet",
+    "Name" : "Anclajes de Jet de Salto",
+    "Details" : "Un 'Mech puede montar un número limitado de Jets de Salto, determinado por su velocidad máxima relativa. Tal número lo representa su total de 'anclajes fijos' de Jets de Salto.",
+    "Icon" : "uixSvgIcon_action_jump"
+}

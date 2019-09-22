@@ -1,0 +1,59 @@
+{
+    "Description" : {
+        "Id" : "background_career_gladiator",
+        "Name" : "Gladiador",
+        "Details" : "Por tu cuenta, caíste en la vida de Gladiador en [[DM.BaseDescriptionDefs[LoreSolaris7],Solaris]].",
+        "Icon" : "envTxrHrld_startGladiator",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_career_gladiator"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 2,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 2,
+	"UIOrdering" : 2,
+	"OptionName" : "Gladiador en Solaris",
+	"OptionMusicTrigger" : "",
+	"OptionDescription" : "Llevaste tus habilidades como MechWarrior al famoso planeta coliseo de [[DM.BaseDescriptionDefs[LoreSolaris7],Solaris VII]]. Allí, te ganaste la vida a duras penas como gladiador, luchando para la multitud en coliseos menores, yendo de una paga a otra.\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery],Puntería]]",
+    "Intro" : "Fuiste campeón de bajo nivel, con mala suerte y a una mala pelea de estar en la cuneta, hasta que Raju oyó hablar de ti. Te siguió la pista hasta [[DM.BaseDescriptionDefs[LoreSolaris7],Solaris]] para ofrecerte un pasaje de vuelta a la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]], y un trabajo en la Guardia Real de la [[DM.BaseDescriptionDefs[LoreHouseArano],Casa Arano]].\r\n\r\nAsí que te reencuentras con tu viejo mentor, preparando tu ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] para tareas de vigilancia en la coronación de [[DM.BaseDescriptionDefs[LoreKameaArano],Lady Kamea Arano]]…",
+	"BioDescription" : "Con ansia para escapar de tu pasado, llevaste a tu Blackjack y tus habilidades como MechWarrior al famoso planeta coliseo de Solaris VII. Allí, te ganaste la vida a duras penas como gladiador, luchando para la multitud en coliseos menores, yendo de una paga a otra.\r\n"
+}

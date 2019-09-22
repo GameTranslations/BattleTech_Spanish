@@ -1,0 +1,6 @@
+{
+    "Id" : "BiomeMartian",
+    "Name" : "Marciano",
+    "Details" : "El bioma Marciano es similar al del cuarto planeta del sistema solar de Terra. La delgada atmósfera hace difícil disipar el calor, y puede haber tormentas de polvo que ofrezcan algo de cobertura. Los campos de radiación pueden ofrecer alguna protección ante el apuntado enemigo, pero las unidades en su interior acumulan niveles peligrosos de calor.",
+    "Icon" : "uixSvgIcon_biome_PartialVacuum"
+}

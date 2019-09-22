@@ -1,0 +1,18 @@
+{
+   "Description" : {
+      "Id" : "Ammunition_AC10",
+      "Name" : "Mun. AC/10",
+      "Details" : "Balas de gran calibre capaces de provocar gran daño y diseñadas para usarse en un AC/10.",
+      "Icon" : null,
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Type" : "Normal",
+   "Category" : "AC10",
+   "HeatGenerated" : 0,
+   "HeatGeneratedModifier" : 1,
+   "ArmorDamageModifier" : 1,
+   "ISDamageModifier" : 1,
+   "CriticalDamageModifier" : 1
+}

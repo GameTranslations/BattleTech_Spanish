@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationLoathed",
+    "Name" : "Reputación: Detestable",
+    "Details" : "Con reputación detestable, esta facción te considera un enemigo y trabajará contigo solo bajo presión. Recibes un 90% menos en el pago de contratos y no se te permite comprar en sistemas que esta facción controle.",
+    "Icon" : "uixTxrIcon_rep_-3"
+}

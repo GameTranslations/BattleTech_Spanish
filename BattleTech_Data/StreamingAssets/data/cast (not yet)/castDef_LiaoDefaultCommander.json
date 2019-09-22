@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_LiaoDefaultCommander",
+    "internalName" : "LiaoDefaultCommander",
+    "firstName" : "Capellan Armed Forces",
+    "lastName" : "Commander",
+    "callsign" : "",
+    "rank" : "Sang-wei",
+    "gender" : "NonBinary",
+    "faction" : "Liao",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "emblems/factions/uixTxrLogo_Liao.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

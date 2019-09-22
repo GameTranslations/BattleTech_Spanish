@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechUnfieldable",
+    "Name" : "No Desplegable",
+    "Details" : "Este 'Mech no está listo para el combate y no puede enviarse a misiones. Esto puede deberse a las zonas destruidas que necesitan reemplazarse y/o falta de armas útiles.\n\nPara remediarlo, To make this 'Mech combat-ready, Reponer o Reparar en la Bahía de Mechs.",
+    "Icon" : ""
+}

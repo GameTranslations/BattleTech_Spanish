@@ -1,0 +1,12 @@
+{
+	"Description" : {
+		"Id" : "DesignMaskBiomeLunarVacuum",
+		"Name" : "BIOMA LUNAR",
+		"Details" : "Las unidades en el vacío sólo reducen un 65% de su Calor normal.",
+		"Icon" : "uixSvgIcon_biome_Vacuum"
+	},
+    "heatSinkMultiplier" : 0.65,
+    "heatPerTurn" : 0,
+	"audioSwitchSurfaceType" : "dirt",
+	"audioSwitchRainingSurfaceType" : "mud"
+}

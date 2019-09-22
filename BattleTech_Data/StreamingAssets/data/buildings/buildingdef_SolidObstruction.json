@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_SolidObstruction",
+      "Name" : "Obstrucción Sólida",
+      "Details" : "Obstrucción no atacable, como una roca grande.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : false,
+   "StructurePoints" : 0,
+   "Opacity" : 100
+}

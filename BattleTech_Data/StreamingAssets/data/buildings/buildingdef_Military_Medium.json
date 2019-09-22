@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_Military_Medium",
+      "Name" : "Edificio Militar Mediano",
+      "Details" : "Edificio militar mediano.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : true,
+   "StructurePoints" : 150,
+   "Opacity" : 100
+}

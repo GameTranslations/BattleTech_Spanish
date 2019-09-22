@@ -1,0 +1,65 @@
+{
+    "Category" : "AntiPersonnel",
+    "Type" : "Laser",
+    "WeaponSubType" : "SmallLaserER",
+    "MinRange" : 0,
+    "MaxRange" : 150,
+    "RangeSplit" : [
+        150,
+        150,
+        150
+    ],
+    "AmmoCategory" : "NotSet",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 10,
+    "Damage" : 20,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 0,
+    "AccuracyModifier" : -1,
+    "CriticalChanceMultiplier" : 1.25,
+    "AOECapable" : false,
+    "IndirectFireCapable" : false,
+    "RefireModifier" : 0,
+    "ShotsWhenFired" : 1,
+    "ProjectilesPerShot" : 1,
+    "AttackRecoil" : 1,
+    "Instability" : 0,
+    "WeaponEffectID" : "WeaponEffect-Weapon_LaserER_Small",
+    "Description" : {
+        "Cost" : 220000,
+        "Rarity" : 20,
+        "Purchasable" : false,
+        "Manufacturer" : "SCI",
+        "Model" : "Láser Pequeño de Rango-Extendido",
+        "UIName" : "Láser P RE",
+        "Id" : "Weapon_Laser_SmallLaserER_0-STOCK",
+        "Name" : "Láser P RE",
+        "Details" : "Una mejora sobre los Lásers Pequeños estándar, los Lásers Pequeños de Rango-Extendido amplían su alcance efectivo a costa de generar un calor enorme. Como todos los Lásers, los Lásers Pequeños RE disfrutan de una bonificación base a la precisión sobre otras armas.",
+        "Icon" : "uixSvgIcon_weapon_Support"
+    },
+    "BonusValueA" : "",
+    "BonusValueB" : "",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "Laser",
+    "BattleValue" : 0,
+    "InventorySize" : 1,
+    "Tonnage" : 0.5,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+        
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "component_type_lostech",
+            "range_close"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

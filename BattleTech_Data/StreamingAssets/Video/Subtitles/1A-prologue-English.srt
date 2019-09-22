@@ -1,0 +1,124 @@
+﻿1
+00:00:10,500 --> 00:00:13,020
+Soy Kamea de la Casa Arano,
+
+2
+00:00:13,020 --> 00:00:15,700
+Gran Dama de la Extensión Aurigana,
+
+3
+00:00:15,980 --> 00:00:17,980
+Protectora de Coromodir,
+
+4
+00:00:18,180 --> 00:00:20,540
+y Espada de la Restauración.
+
+5
+00:00:21,340 --> 00:00:26,050
+Pero no soy un héroe… no importan lo que digan las historias.
+
+6
+00:00:26,860 --> 00:00:32,020
+Un héroe se habría sacrificado más, transigido menos.
+
+7
+00:00:33,580 --> 00:00:35,560
+Un héroe lo habría hecho mejor.
+
+8
+00:00:37,420 --> 00:00:42,540
+Lo sabes, por supuesto - estabas allí.
+
+9
+00:00:45,980 --> 00:00:50,420
+Mi padre solía contarme historias de tiempos antiguos,
+
+10
+00:00:51,180 --> 00:00:53,140
+sobre la Liga Estelar.
+
+11
+00:00:53,180 --> 00:00:55,820
+Una era dorada de prosperidad,
+
+12
+00:00:56,020 --> 00:00:59,020
+mantenida por los grandes MechWarriors de antaño -
+
+13
+00:00:59,380 --> 00:01:01,020
+guardianes de los inocentes,
+
+14
+00:01:01,180 --> 00:01:03,020
+protectores de la paz.
+
+15
+00:01:03,020 --> 00:01:06,420
+¡Siempre soñé seguir sus pasos!
+
+16
+00:01:08,980 --> 00:01:12,020
+Era demasiado joven para ver la verdad de las cosas.
+
+17
+00:01:12,780 --> 00:01:16,620
+Después de todo, no fue el heroísmo
+
+18
+00:01:16,620 --> 00:01:19,780
+o una noble causa que me hizo ganar el trono.
+
+19
+00:01:19,980 --> 00:01:23,620
+Fue contratar a un mercenario lo suficientemente hábil -
+
+20
+00:01:23,780 --> 00:01:25,900
+puede que suficientemente implacable -
+
+21
+00:01:25,980 --> 00:01:27,820
+para acabar el día.
+
+22
+00:01:27,980 --> 00:01:30,020
+Contratarte a <b>ti</b>.
+
+23
+00:01:31,060 --> 00:01:33,420
+Todavía no sé si luchaste por honor,
+
+24
+00:01:33,420 --> 00:01:34,820
+o por la emoción.
+
+25
+00:01:34,820 --> 00:01:36,620
+Por creer en mi causa,
+
+26
+00:01:36,700 --> 00:01:38,980
+o solo por mi dinero.
+
+27
+00:01:39,180 --> 00:01:43,460
+Pero ya fuera tu noble corazón o tu mente mercenaria…
+
+28
+00:01:43,780 --> 00:01:47,020
+tus acciones nos dieron esperanza.
+
+29
+00:01:47,180 --> 00:01:50,020
+Eso te hace un héroe a los ojos de la historia.
+
+30
+00:01:50,780 --> 00:01:52,420
+¿Si lo crees?
+
+31
+00:01:56,980 --> 00:01:58,420
+Es cosa tuya.
+

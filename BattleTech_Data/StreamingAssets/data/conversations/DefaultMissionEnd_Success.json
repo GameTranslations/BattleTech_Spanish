@@ -1,0 +1,17 @@
+{
+   "identifier" : "DefaultMissionEnd_Success",
+   "contents" : [
+      {
+         "words" : "Excelente trabajo, Comandante. (POR HACER - Finalizar éxito por defecto) Considerar juegos de palabras y randomizar cosas por defecto. ",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "selectedCastDefId" : "castDef_None",
+         "emote" : "Default",
+         "audioName" : ""
+      }
+   ]
+}

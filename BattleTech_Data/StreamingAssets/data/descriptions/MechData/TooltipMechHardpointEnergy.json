@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechHardpointEnergy",
+    "Name" : "Anclajes de Energía",
+    "Details" : "Un 'Mech puede montar un número limitado de armas de cada tipo, representado por sus 'anclajes fijos'. Los anclajes de energía pueden montar sistemas de armas de Energía, incluyendo CPPs, Láseres Grandes y Medios.",
+    "Icon" : "uixSvgIcon_weapon_Energy"
+}

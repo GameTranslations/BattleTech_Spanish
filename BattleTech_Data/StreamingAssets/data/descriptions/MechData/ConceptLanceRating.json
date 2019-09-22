@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptLanceRating",
+    "Name" : "Tonelaje de Descenso",
+    "Details" : "Este es el tonelaje total de los 'Mechs asignados a esta lanza. Como norma, cuanto mayor es el Valor de Dificultad de un contrato, se recomienda mayor Tonelaje de Descenso.",
+    "Icon" : ""
+}

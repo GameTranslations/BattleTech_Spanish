@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHitBallistic",
+    "Name" : "Apuntado Balístico",
+    "Details" : "El Apuntado Balístico afecta la precisión promedio de toda arma balística equipada, según la dificultad de su ataque actual.",
+    "Icon" : ""
+}

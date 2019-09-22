@@ -1,0 +1,92 @@
+﻿Una habilidad alta de Coraje reduce el tiempo que un MechWarrior necesita en la Bahía Med y reduce la posibilidad de que las heridas mortales sean fatales.
+La habilidad de Puntería del MechWarrior determina la posibilidad de acertar con armas a distancia.
+La habilidad de Pilotaje del MechWarrior aumenta la posibilidad de acertar en melé y mejora su capacidad de mantener al 'Mech estable bajo fuego.
+Tras mover en combate, si no hay enemigos al alcance, Asegura tu 'Mech para terminar tu turno y ganar bonificaciones defensivas.
+Las armas balísticas tienen retroceso al disparar y son más difíciles de apuntar en los disparos siguientes.
+Completar un conjunto de Piezas de 'Mech Salvadas produce nuevos BattleMechs que expanden tu arsenal.
+Realizar ataques "Muerte desde Arriba" dañará las piernas de tu 'Mech y lo hará más inestable. ¡Usa esta habilidad con cuidado!
+Destruir la cabeza o las piernas de un BattleMech enemigo lo elimina del combate y aumenta la cantidad de Piezas de 'Mech Salvadas que obtienes.
+¡La posición importa! Mantén tus zonas de blindaje menos dañadas encarando a tu enemigo.
+¡La posición importa! Recuerda que el blindaje trasero de un 'Mech es más delgado—úsalo para tu ventaja.
+Lanzallamas, Láseres Pequeños y Ametralladoras disparan automáticamente tras los ataques Melé.
+Los lanzallamas no generan calor al disparar, pero pueden sobrecalentar rápidamente a un BattleMech enemigo.
+Si se destruyen ambas piernas, un 'Mech se elimina del combate.
+Si uno de tus 'Mechs se está recalentando, recuerda que los ataques Melé no generan Calor.
+Si tu 'Mech está más elevado que su blanco, tendrá un poco más de posibilidad de acertar.
+Aumentar tu reputación con una facción te dará un descuento en las tiendas de esa facción.
+Saltar sobre un enemigo es muy efectivo, pero dañará las piernas del atacante y puede caerse.
+Las armas de largo alcance tales como CPPs y MALs sufren una penalización al apuntar cuando se disparan a blancos a corto alcance.
+Los ataques Melé pueden eliminar totalmente la Evasión de un blanco, siendo más fácil para otros 'Mechs disparar sobre ese blanco.
+Los Misiles y Autocañones hacen más daño a la estabilidad que las armas de Energía, y tienen mayor posibilidad de derribar al enemigo.
+Retirarse de un contrato es una decisión inteligente si parece que la paga no cubrirá las facturas de reparación.
+La velocidad es más importante que la potencia de fuego en misiones de escolta y rescate.
+Los sistemas sin población permanente no venderán objetos, pero tendrán contratos disponibles.
+Acepta contratos prioritarios para continuar la historia. ¡También pagan extremadamente bien!
+Cuando la Gran Dama Keona Arano fundó la Coalición Aurigana en 2910, solo se componía de cuatro sistemas: Coromodir, Itrom, Tyrlon y Guldra.
+La habilidad de Tácticas aumenta la efectividad de los Tiros Precisos, reduce penalizaciones por disparos indirectos, y reduce el alcance mínimo de las armas.
+Para hallar mejor equipo en las tiendas, intenta visitar sistemas estelares industriales y de alta tecnología.
+Las torretas pueden Fijar Sensor en tus unidades, haciéndolas víctimas de disparos indirectos. ¡Que no te vean no significa que estés seguro!
+Mantén tus 'Mechs en movimiento para aumentar su bonificación defensiva a la Evasión.
+Si tu Moral a bordo es lo suficientemente alta, ganas Ánimo en cada ronda de combate. Úsalo para activar potentes habilidades ofensivas y defensivas.
+Usa el tiempo de viaje eficientemente. Ordena reparar los 'Mechs dañados o actualízalos mientras vayas a tu destino.
+Las armas con un "+" junto al nombre son más raras y de mayor calidad que las habituales. Cuantos más "+" veas, más raro es el objeto.
+Puedes cambiar las opciones de la cámara cinemática de combate en el Menú Opciones.
+Pon los BattleMechs que no uses en el almacén para evitar los pagos por mantenimiento.
+Mantén pulsada la tecla ALT con un 'Mech seleccionado en combate para ver todos los posibles puntos de movimiento alrededor de tu ratón.
+Prueba la habilidad Fijar Sensor para exponer a los enemigos al fuego indirecto. ¡Así puedes usar tus Misiles de Alcance Largo desde tu puesto protegido por el terreno!
+A los edificios se les puede disparar cuando no estás en combate. Elige el botón Atacar y pulsa en tu blanco.
+Asegura tus 'Mechs inestables para evitar más ataques al ser derribados.
+Pulsa botón derecho sobre un 'Mech o vehículo enemigo para ver detalles de configuración de armas y estado del blindaje.
+Algunos biomas afectan a la capacidad de tus 'Mechs de disipar Calor. ¡Ten cuidado al saltar y al usar armas de Energía en ambientes Lunares o Marcianos!
+Si Reservas un 'Mech ligero hasta la fase final de una ronda, tras usarlo, podrá actuar también al inicio de la siguiente ronda—moviendo efectivamente dos veces de una vez.
+Cuanto más lejos vaya una unidad durante su turno, mayor será su Evasión y más difícil de acertar.
+Los vehículos reciben daño extra de los ataques Melé.
+Puedes Reservar tus 'Mechs para que actúen en una fase de Iniciativa más tarde. Esto permite a las unidades ligeras más flexibilidad en combate.
+La Moral de tu MechWarrior se transfiere al campo de batalla, permitiendo más usos de habilidades de Voluntad en combate.
+Intenta posicionar tu ataque para aprovechar las zonas vulnerables del blindaje de tu enemigo.
+Gestiona el Calor de tu 'Mech en combate desactivando las armas con baja probabilidad de acertar.
+Los Misiles de Alcance Largo pueden disparar sobre obstáculos si una unidad amiga tiene visible al objetivo. ¡Pero eso también cuenta para el enemigo!
+Asegura tus 'Mechs inestables para evitar más ataques al ser derribados.
+Pulsa botón derecho sobre un 'Mech o vehículo enemigo para ver detalles de configuración de armas y estado del blindaje.
+Algunos biomas afectan a la capacidad de tus 'Mechs de disipar Calor. ¡Ten cuidado al saltar y al usar armas de Energía en ambientes Lunares o Marcianos!
+Si Reservas un 'Mech ligero hasta la fase final de una ronda, tras usarlo, podrá actuar también al inicio de la siguiente ronda—moviendo efectivamente dos veces de una vez.
+Cuanto más lejos avance una unidad durante su turno, mayor será su Evasión y más difícil de acertar.
+Los vehículos reciben daño extra de los ataques Melé.
+Puedes Reservar tus 'Mechs para que actúen en una fase de Iniciativa más tarde. Esto permite a las unidades ligeras más flexibilidad en combate.
+La Moral de tu MechWarrior se transfiere al campo de batalla, permitiendo más usos de habilidades de Voluntad en combate.
+Intenta posicionar tu ataque para aprovechar las zonas vulnerables del blindaje de tu enemigo.
+Gestiona el Calor de tu 'Mech en combate desactivando las armas con baja probabilidad de acertar.
+Los Misiles de Alcance Largo pueden disparar sobre obstáculos si una unidad amiga tiene visible al objetivo. ¡Pero eso también cuenta para el enemigo!
+El primer BattleMech, el Mackie, fue desarrollado por los científicos y el ejército de la Hegemonía Terrana en 2439.
+En 2766, Stefan Amaris de la República de Mundos Periféricos lanzó una sangrienta revolución que destruyó la Liga Estelar.
+Puedes ordenar a los MechWarriors en peligro a Eyectar en combate. Sus 'Mechs serán recuperados por tu equipo de salvamento tras la batalla.
+A veces Retirarse de una misión es lo mejor para tus finanzas.
+Los Generadores de Hiperpulso, controlados exclusivamente por ComStar, permiten vídeocomunicaciones casi instantáneas a través de distancias interestelares.
+Las Guerras de Sucesión destruyeron las factorías de la Liga Estelar, dificultando el mantenimiento de los BattleMechs y su producción. La mayoría son ahora LosTech, tecnología perdida.
+Las Guerras de Sucesión comenzaron en 2786 cuando Minoru Kurita del Combinado Draconis se declaró a sí mismo Primer Señor de la Liga Estelar.
+El combate gladiatorio de 'Mechs tiene lugar en el mundo de Solaris VII, y lo retransmiten y se hacen apuestas por todo el espacio conocido.
+La Liga de Mundos Libres es el más antiguo de los Estados Sucesores, fundada por la Casa Marik en 2271.
+Siendo originalmente una democracia representativa, las maniobras de la Casa Davion transformaron a los Soles Federados en una monarquía.
+La Mancomunidad Lirana, liderada por la Casa Steiner, comenzó una unión de alianzas mercantiles. A día de hoy sigue siendo asombrosamente acaudalada.
+La ciudadanía en la Confederación Capellana es un punto de orgullo para muchos, pues debe ganarse a través del servicio al Estado.
+Cuando un ataque destruye una zona en un 'Mech, cualquier daño restante del ataque se transfiere hacia el centro del 'Mech.
+La posibilidad porcentual de "acierto" con armas de misiles es la posibilidad de cada misil de acertar a su blanco.
+Los MechWarriors incapacitados en combate siguen teniendo una posibilidad de sobrevivir. Comprueba el Informe Post Acción para descubrir su destino.
+Cada disparo del Autocañón tras el primero sufre penalización por Retroceso que reduce su probabilidad de acierto. Dejar descansar el arma un turno elimina la penalización.
+Las Guerras de Sucesión entre las Grandes Casas de la Esfera Interior han continuado con poca interrupción desde 2786.
+El efímero Damage Inc. fue uno de los comandos mercenarios que encontró su ruina en el combate brutal de la Segunda Guerra de Sucesión.
+La unidad mercenaria Los Dragones de Wolf apareció en la Esfera Interior en 3005, desplegando 5 regimientos de prístinos BattleMechs.
+El 21º de Lanceros de Centauro se amotinó contra la Casa Liao por salarios pendientes en 2875. Se volvieron mercenarios e incautaron una Nave de Salto Liao como pago.
+No siendo tan famosos como otras unidades mercenarias, los Grave Walkers han trabajado con y contra todas las principales casas nobles durante siglos.
+Recientemente fundada en 3024 por Grayson Carlyle, la Legión de la Muerte Gris está compuesta de la milicia planetaria proviniente del planeta Trell I.
+El comando mercenario Los Sabuesos de Kell se fundó en 3010 por Patrick y Morgan Kell, usando la herencia de la muerte de su padre.
+El Grupo de Combate Lexington ha sido continuamente contratado como mercenarios por la Casa Davion desde los 2950s.
+Surgida en 2930, La Caballería Pesada de McCarron—La Big Mac—es una de las mayores unidades mercenarias y con más éxito de la historia.
+Las Convenciones Ares de 2412 establecieron reglas para el combate moderno, prohibiendo el uso de armas nucleares y biológicas y el bombardeo orbital.
+Los mercenarios de la Caballería Ligera de Eridani traza los orígenes de su linaje hasta el 3er. Equipo de Combate Regimental de la Fuerza de Defensa de la Liga Estelar.
+En combate, la velocidad es vida. Vas lento, mueres. —"Ojomuerto" Unther, Los Jinetes Rudos de Hansen
+Puedes acelerar cualquier animación de movimiento o ataque pulsando la Barra Espaciadora.
+Puedes acelerar cualquier animación de movimiento o ataque pulsando la Barra Espaciadora.
+Puedes hacer el combate dramáticamente más rápido seleccionando "Acelerar Combate" en el menú Configuración.
+Pulsa el botón Personalizar en las Barracas para cambiar los nombres y retratos de tus MechWarriors.
+Mira formas de personalizar la dificultad del juego en el menú Configuración. 

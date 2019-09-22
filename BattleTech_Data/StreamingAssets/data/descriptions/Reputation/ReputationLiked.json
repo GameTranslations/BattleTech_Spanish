@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationLiked",
+    "Name" : "Reputación: Aceptada",
+    "Details" : "Con reputación aceptada, esta facción cree que eres fiable y eficiente. Recibes un bono del 5% en pagos de contratos que asumas con esta facción.",
+    "Icon" : "uixTxrIcon_rep_+1"
+}

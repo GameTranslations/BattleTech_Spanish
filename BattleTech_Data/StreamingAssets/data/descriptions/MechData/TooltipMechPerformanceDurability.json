@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceDurability",
+    "Name" : "Rendimiento: Durabilidad",
+    "Details" : "La durabilidad relativa de un 'Mech se determina por el total de Blindaje y Estructura en todas sus zonas.",
+    "Icon" : ""
+}

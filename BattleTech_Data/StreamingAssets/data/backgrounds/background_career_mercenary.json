@@ -1,0 +1,59 @@
+{
+    "Description" : {
+        "Id" : "background_career_mercenary",
+        "Name" : "Mercenario",
+        "Details" : "Por tu cuenta, caíste en la vida de un Mercenario de la [[DM.BaseDescriptionDefs[LoreInnerSphere],Esfera Interior]].",
+        "Icon" : "envTxrHrld_startMercenary",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_career_mercenary"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : null,
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 1,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 2,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 1,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 2,
+	"UIOrdering" : 3,
+	"OptionName" : "Mercenario en Esfera Interior",
+	"OptionMusicTrigger" : "",
+	"OptionDescription" : "Con ansia de escapar de todo, te alistaste en una pequeña unidad mercenaria de la [[DM.BaseDescriptionDefs[LoreInnerSphere],Esfera Interior]]. Integrarse en una tripulación tan hermética llevó su tiempo, pero eventualmente probaste tu valía y te hiciste parte de la familia.\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics],Tácticas]]",
+    "Intro" : "El puro azar te llevó de nuevo a la [[DM.BaseDescriptionDefs[LoreAuriganReach],Extensión Aurigana]], al aceptar tu tripulación mercenaria un aciago contrato contra un enclave de piratas a las afueras del espacio aurigano. El trabajo se fué al traste, y solo sobreviviste tú. La lanza de Raju estaba cerca de patrulla. Tras rescatarte y ayudarte a honrar a tus camaradas caídos, te ofreció un trabajo en la Guardia Real de la [[DM.BaseDescriptionDefs[LoreHouseArano],Casa Arano]].\r\n\r\nAsí que te reencuentras con tu viejo mentor, preparando tu ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] para tareas de vigilancia en la coronación de [[DM.BaseDescriptionDefs[LoreKameaArano],Lady Kamea Arano]]…",
+	"BioDescription" : "Con ansia de escapar de tu pasado y labrarte un nombre por tu cuenta, te alistaste en una pequeña unidad mercenaria de la Esfera Interior. Integrarse en una tripulación tan hermética llevó su tiempo, pero eventualmente probaste tu valía y te hiciste parte de la familia.\r\n"
+}

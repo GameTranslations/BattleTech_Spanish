@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationHated",
+    "Name" : "Reputación: Odiosa",
+    "Details" : "Con reputación odiosa, esta facción desconfía profundamente de ti y trabaja contigo solo a regañadientes. Recibes un 50% menos en el pago de contratos y pagas un 50% más en las tiendas de sistemas que esta facción controle.",
+    "Icon" : "uixTxrIcon_rep_-2"
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechArmor",
+    "Name" : "Blindaje",
+    "Details" : "El blindaje equipado en un 'Mech se usa para proteger su estructura interna vital, así como sus armas, munición y otros sistemas críticos. El blindaje dañado se retira y se reemplaza automáticamente tras cada batalla. Una zona de estructura interna puede aguantar en Blindaje el doble de sus puntos de Estructura.",
+    "Icon" : ""
+}

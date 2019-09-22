@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatMoraleGain",
+    "Name" : "Generación de Moral",
+    "Details" : "La Generación de Moral impacta a la cantidad de Moral que un equipo gana al inicio de cada ronda de combate, y que se puede gastar en habilidades de Moral.",
+    "Icon" : ""
+}

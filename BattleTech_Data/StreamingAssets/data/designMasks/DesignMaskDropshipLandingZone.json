@@ -1,0 +1,10 @@
+{
+	"Description" : {
+		"Id" : "DesignMaskDropshipLandingZone",
+		"Name" : "ZONA DE ATERRIZAJE DE NAVE DE DESCENSO",
+		"Details" : "Una Nave de Descenso podría aterrizar aquí. No estés aquí cuando llegue.",
+		"Icon" : null
+	},
+    "heatSinkMultiplier" : 1.0,
+    "heatPerTurn" : 0
+}

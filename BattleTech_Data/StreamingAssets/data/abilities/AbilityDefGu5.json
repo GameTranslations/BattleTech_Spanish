@@ -1,0 +1,43 @@
+{
+	"Description" : {
+		"Id" : "AbilityDefGu5",
+		"Name" : "BALUARTE",
+		"Details" : "PASIVO: Gana GUARDIA (50% de reducción de daño contra ataques de alcance al frente y lateral) al mantenerse estacionario.",
+		"Icon" : "uixSvgIcon_ability_bulwark"
+	},
+    "DisplayParams" : "ShowInMWTRay",
+	"ReqSkill" : "Guts",
+	"ReqSkillLevel" : 5,
+	"ActivationTime" : "Passive",
+	"EffectData" :
+	[
+		{
+			"durationData" :
+			{
+				"duration" : -1
+			},
+			"targetingData" :
+			{
+				"effectTriggerType" : "OnActivation",
+				"effectTargetType" : "Creator"
+			},
+			"effectType" : "StatisticEffect",
+			"Description" :
+			{
+				"Id" : "AbilityDefGu5",
+				"Name" : "BALUARTE",
+				"Details" : "PASIVO: Gana GUARDIA (50% de reducción de daño contra ataques de alcance al frente y lateral) al mantenerse estacionario.",
+				"Icon" : "uixSvgIcon_ability_bulwark"
+			},
+			"statisticData" :
+			{
+				"statName" : "GuardedFromBeingStationary",
+				"operation" : "Set",
+				"modValue" : "true",
+				"modType" : "System.Boolean"
+			},
+			"nature" : "Buff"
+		}
+	],
+	"IsPrimaryAbility" : true
+}

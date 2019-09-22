@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWeightLight",
+    "Name" : "Clase: Ligero",
+    "Details" : "Los BattleMechs Ligeros son generalmente las unidades más rápidas en el campo, pero portan poco en el ámbito del blindaje y las armas. Son buenos para explorar y avistar unidades más pesadas, su maniobrabilidad también permite realizar ataques sorpresa y movimientos de flanqueo con facilidad.\n\nCon una Iniciativa de 4, los 'Mechs ligeros actúan los primeros en una ronda.",
+    "Icon" : ""
+}

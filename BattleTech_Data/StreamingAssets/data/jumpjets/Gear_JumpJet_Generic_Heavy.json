@@ -1,0 +1,35 @@
+{
+    "JumpCapacity" : 1,
+    "MinTonnage" : 60,
+    "MaxTonnage" : 85,
+    "Description" : {
+        "Cost" : 60000,
+        "Rarity" : 1,
+        "Purchasable" : true,
+        "Manufacturer" : "Genérico",
+        "Model" : "Pesado",
+        "UIName" : "Jet de Salto (P)",
+        "Id" : "Gear_JumpJet_Generic_Heavy",
+        "Name" : "Jet de Salto Pesado (P)",
+        "Details" : "Los Jets de Salto canalizan aire supercaliente para propulsar 'Mechs sobre obstáculos de un modo controlado. Adicionalmente, también pueden usarse para realizar el temido ataque 'Muerte desde Arriba'. Los Jets de Salto Pesados están diseñados especialmente para usarse en 'Mechs de 60 a 85 toneladas.",
+        "Icon" : "uixSvgIcon_action_jump"
+    },
+    "BonusValueA" : null,
+    "BonusValueB" : null,
+    "ComponentType" : "JumpJet",
+    "ComponentSubType" : "Functionality",
+    "PrefabIdentifier" : "JumpJet",
+    "BattleValue" : 0,
+    "InventorySize" : 1,
+    "Tonnage" : 1,
+    "AllowedLocations" : "Torso, Legs",
+    "DisallowedLocations" : "Head, Arms",
+    "CriticalComponent" : false,
+    "statusEffects" : null,
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Category" : "Energy",
+    "Type" : "Laser",
+    "WeaponSubType" : "LargeLaserER",
+    "MinRange" : 0,
+    "MaxRange" : 570,
+    "RangeSplit" : [
+        330,
+        330,
+        570
+    ],
+    "AmmoCategory" : "NotSet",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 25,
+    "Damage" : 40,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 0,
+    "AccuracyModifier" : -1,
+    "CriticalChanceMultiplier" : 1.25,
+    "AOECapable" : false,
+    "IndirectFireCapable" : false,
+    "RefireModifier" : 0,
+    "ShotsWhenFired" : 1,
+    "ProjectilesPerShot" : 1,
+    "AttackRecoil" : 1,
+    "Instability" : 0,
+    "WeaponEffectID" : "WeaponEffect-Weapon_LaserER_Large",
+    "Description" : {
+        "Cost" : 610000,
+        "Rarity" : 20,
+        "Purchasable" : false,
+        "Manufacturer" : "SCI",
+        "Model" : "Láser Grande de Rango-Extendido",
+        "UIName" : "Láser G RE",
+        "Id" : "Weapon_Laser_LargeLaserER_0-STOCK",
+        "Name" : "Láser G RE",
+        "Details" : "Una mejora sobre los Lásers Grandes estándar, los Lásers Grandes de Rango-Extendido amplían su alcance efectivo a costa de generar un calor enorme. Como todos los Lásers, los Lásers Grandes RE disfrutan de una bonificación base a la precisión sobre otras armas.",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "BonusValueA" : "",
+    "BonusValueB" : "",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "Laser",
+    "BattleValue" : 0,
+    "InventorySize" : 2,
+    "Tonnage" : 5,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+        
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "component_type_lostech",
+            "range_very-long"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}
